@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.3.1...v1.4.0) (2026-01-25)
+
+
+### Features
+
+* add health check API and WebSocket live updates ([bbbfd18](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bbbfd189c0325c93b98e3a06659961065341ac96))
+
 ## [1.3.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.3.0...v1.3.1) (2026-01-25)
 
 
