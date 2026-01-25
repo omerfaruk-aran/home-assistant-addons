@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.3.0...v1.3.1) (2026-01-25)
+
+
+### Bug Fixes
+
+* rebuild frontend with APP_VERSION during release ([34b0bdf](https://github.com/RiDDiX/home-assistant-matter-hub/commit/34b0bdf38cee70309ff1a4c0b2cec004ed6b261c))
+
 # [1.3.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.2.0...v1.3.0) (2026-01-25)
 
 
