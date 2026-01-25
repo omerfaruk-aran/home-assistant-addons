@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       project:
-        description: 'Project to release (hamh, hamh-beta)'
+        description: 'Project to release (hamh, hamh-alpha)'
         required: true
         default: 'hamh'
       version:
@@ -22,7 +22,7 @@ on:
 
 # client_payload from repository_dispatch:
 #   project: "hamh"
-#   channel: "latest" | "beta"
+#   channel: "latest" | "alpha"
 #   version: "3.0.0"
 #   changelogUrl: "https://..."
 
