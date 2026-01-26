@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.1...v1.7.2) (2026-01-26)
+
+
+### Bug Fixes
+
+* round fan percentage to nearest valid step ([#8](https://github.com/RiDDiX/home-assistant-matter-hub/issues/8)) ([d01ef90](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d01ef90abd7cbee4724f6aa01f95c613135e0c17))
+
 ## [1.7.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.0...v1.7.1) (2026-01-26)
 
 
