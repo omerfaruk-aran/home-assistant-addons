@@ -1,3 +1,10 @@
+# [1.5.0-alpha.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.9...v1.5.0-alpha.10) (2026-01-26)
+
+
+### Features
+
+* add Alarm Control Panel device type ([db96ffb](https://github.com/RiDDiX/home-assistant-matter-hub/commit/db96ffb1e66ffdc7792da0286e05d35ce863f2cd))
+
 # [1.5.0-alpha.9](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.8...v1.5.0-alpha.9) (2026-01-26)
 
 
