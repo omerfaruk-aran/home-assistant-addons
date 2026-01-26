@@ -1,3 +1,10 @@
+# [1.5.0-alpha.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.21...v1.5.0-alpha.22) (2026-01-26)
+
+
+### Features
+
+* health monitoring dashboard, auto-recovery, bridge wizard ([3800813](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3800813f6f740d1ee3a9dd032bc350cfcb7c0f90))
+
 # [1.5.0-alpha.21](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.20...v1.5.0-alpha.21) (2026-01-26)
 
 
