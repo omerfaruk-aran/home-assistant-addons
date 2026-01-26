@@ -1,3 +1,10 @@
+# [1.5.0-alpha.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.11...v1.5.0-alpha.12) (2026-01-26)
+
+
+### Features
+
+* add structured logging, retry utilities, and UI improvements ([a0b21ec](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a0b21ec30b717a9604b7d641d5ca3154060465d2))
+
 # [1.5.0-alpha.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.10...v1.5.0-alpha.11) (2026-01-26)
 
 
