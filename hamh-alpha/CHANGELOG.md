@@ -1,3 +1,10 @@
+# [1.5.0-alpha.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.3...v1.5.0-alpha.4) (2026-01-26)
+
+
+### Bug Fixes
+
+* handle missing entity-mappings storage data ([21674ab](https://github.com/RiDDiX/home-assistant-matter-hub/commit/21674ab322306d26f9e6fdcf68bfe27e9229d32e))
+
 # [1.5.0-alpha.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.2...v1.5.0-alpha.3) (2026-01-26)
 
 
