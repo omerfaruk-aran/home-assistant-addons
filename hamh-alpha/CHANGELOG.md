@@ -1,3 +1,10 @@
+# [2.0.0-alpha.8](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.7...v2.0.0-alpha.8) (2026-01-26)
+
+
+### Bug Fixes
+
+* return minimum level instead of null for Apple Home compatibility ([c3cb384](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c3cb384ba0028d8eb28cea82d41222098c9a47df))
+
 # [2.0.0-alpha.7](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.6...v2.0.0-alpha.7) (2026-01-26)
 
 
