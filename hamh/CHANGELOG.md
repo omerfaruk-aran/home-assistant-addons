@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0...v1.6.0) (2026-01-26)
+
+
+### Features
+
+* add AirQuality sensor, improve Fan speed control, add Media Player playback ([76f9660](https://github.com/RiDDiX/home-assistant-matter-hub/commit/76f966036d0bf49fc558015d9f5116cdd02a4131))
+
 # [1.5.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.4.8...v1.5.0) (2026-01-26)
 
 
