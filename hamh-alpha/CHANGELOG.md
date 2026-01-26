@@ -1,3 +1,10 @@
+# [2.0.0-alpha.7](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.6...v2.0.0-alpha.7) (2026-01-26)
+
+
+### Bug Fixes
+
+* move multer to runtime dependencies ([01e46a1](https://github.com/RiDDiX/home-assistant-matter-hub/commit/01e46a1d784621576a9937c9446eb7f87557f4de))
+
 # [2.0.0-alpha.6](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.5...v2.0.0-alpha.6) (2026-01-26)
 
 
