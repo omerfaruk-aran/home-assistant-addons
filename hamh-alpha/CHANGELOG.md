@@ -1,3 +1,13 @@
+# [2.0.0-alpha.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.22...v2.0.0-alpha.1) (2026-01-26)
+
+
+* fix!: AirQuality sensor conformance - enable all feature flags ([d037659](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d03765929a61ef38809c5af8573cfcc1ce4d0987))
+
+
+### BREAKING CHANGES
+
+* Alpha version bump to 2.0.0 series. This release includes major new features like Health Monitoring Dashboard, Auto-Recovery, and Bridge Wizard.
+
 # [1.5.0-alpha.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.21...v1.5.0-alpha.22) (2026-01-26)
 
 
