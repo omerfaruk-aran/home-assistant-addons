@@ -1,3 +1,10 @@
+# [1.5.0-alpha.9](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.8...v1.5.0-alpha.9) (2026-01-26)
+
+
+### Features
+
+* add Pressure, Flow, Air Quality sensors and Water Valve ([330d4e3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/330d4e37015b0c31a413b7e86faaa6cd4b0508e3))
+
 # [1.5.0-alpha.8](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.7...v1.5.0-alpha.8) (2026-01-26)
 
 
