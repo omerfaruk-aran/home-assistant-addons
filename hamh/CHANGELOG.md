@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.4.2...v1.4.3) (2026-01-26)
+
+
+### Bug Fixes
+
+* add .nojekyll file and copy to docs build output for GitHub Pages ([18c308e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/18c308e5bde7ba4c900e0139a7540f02ca8692ae))
+
 ## [1.4.2](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.4.1...v1.4.2) (2026-01-26)
 
 
