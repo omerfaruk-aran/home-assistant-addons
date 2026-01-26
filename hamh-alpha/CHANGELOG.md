@@ -1,3 +1,10 @@
+# [2.0.0-alpha.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.10...v2.0.0-alpha.11) (2026-01-26)
+
+
+### Features
+
+* add Add Controller button for multi-fabric re-pairing ([a9a6829](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a9a68293ed86ef022434b5c663bc5aa430901a21))
+
 # [2.0.0-alpha.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.9...v2.0.0-alpha.10) (2026-01-26)
 
 
