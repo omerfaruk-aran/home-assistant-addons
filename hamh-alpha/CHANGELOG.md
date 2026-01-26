@@ -1,3 +1,10 @@
+# [1.5.0-alpha.5](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.4...v1.5.0-alpha.5) (2026-01-26)
+
+
+### Features
+
+* add migration support for importing stable exports into alpha ([331f11d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/331f11dd3dc9b545a5c25d3fb59bdba860d544d2))
+
 # [1.5.0-alpha.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.3...v1.5.0-alpha.4) (2026-01-26)
 
 
