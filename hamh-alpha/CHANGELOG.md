@@ -1,3 +1,10 @@
+# [2.0.0-alpha.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.2...v2.0.0-alpha.3) (2026-01-26)
+
+
+### Bug Fixes
+
+* handle mutex-closed error gracefully during shutdown ([e23bcee](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e23bcee0e97e9a88eac88f2a251fbd0aeafcfe7d))
+
 # [2.0.0-alpha.2](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.1...v2.0.0-alpha.2) (2026-01-26)
 
 
