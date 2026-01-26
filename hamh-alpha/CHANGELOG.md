@@ -1,3 +1,15 @@
+# [2.0.0-alpha.6](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.5...v2.0.0-alpha.6) (2026-01-26)
+
+
+### Bug Fixes
+
+* pin archiver and unzipper versions and add to app dependencies ([65fd739](https://github.com/RiDDiX/home-assistant-matter-hub/commit/65fd739f26f586dd3da707302dfb3117dd3628e1))
+
+
+### Features
+
+* add backup/restore system, smoke/CO detector, filter preview, dark mode, sorting, and update docs ([5bcc9a0](https://github.com/RiDDiX/home-assistant-matter-hub/commit/5bcc9a0533924e0c0b0dc1a7e7732af548d07878))
+
 # [2.0.0-alpha.5](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.4...v2.0.0-alpha.5) (2026-01-26)
 
 
