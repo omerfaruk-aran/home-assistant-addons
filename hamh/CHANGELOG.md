@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.4.3...v1.4.4) (2026-01-26)
+
+
+### Bug Fixes
+
+* thermostat deadband constraint violation causing boot loop with climate entities ([81774f6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/81774f6967617ffe3f9a15bfa393c073fcfd84e6))
+
 ## [1.4.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.4.2...v1.4.3) (2026-01-26)
 
 
