@@ -1,3 +1,10 @@
+# [1.5.0-alpha.15](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.14...v1.5.0-alpha.15) (2026-01-26)
+
+
+### Bug Fixes
+
+* add environment config for GitHub Pages deployment ([87101a8](https://github.com/RiDDiX/home-assistant-matter-hub/commit/87101a8e0bf775c1561a15a372a3604d2b63cdce))
+
 # [1.5.0-alpha.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.13...v1.5.0-alpha.14) (2026-01-26)
 
 
