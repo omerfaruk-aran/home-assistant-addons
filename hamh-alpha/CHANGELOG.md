@@ -1,3 +1,10 @@
+# [2.0.0-alpha.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.9...v2.0.0-alpha.10) (2026-01-26)
+
+
+### Features
+
+* add Backup/Restore section to Health page ([b4ea8d5](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b4ea8d57a4d9fc33031da792c2a15e908c58c2e6))
+
 # [2.0.0-alpha.9](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.8...v2.0.0-alpha.9) (2026-01-26)
 
 
