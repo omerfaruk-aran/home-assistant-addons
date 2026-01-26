@@ -1,3 +1,10 @@
+# [1.5.0-alpha.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.12...v1.5.0-alpha.13) (2026-01-26)
+
+
+### Features
+
+* integrate structured logging with context and retry utilities into backend ([44bcb9f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/44bcb9f741304d7975408d30eae543e7d0675a35))
+
 # [1.5.0-alpha.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.5.0-alpha.11...v1.5.0-alpha.12) (2026-01-26)
 
 
