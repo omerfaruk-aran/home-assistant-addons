@@ -1,9 +1,14 @@
-# [1.4.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.3.1...v1.4.0) (2026-01-25)
+# [1.4.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.3.1...v1.4.0) (2026-01-26)
+
+
+### Bug Fixes
+
+* trigger v1.4.0 release with bridge export/import feature ([bf8a255](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bf8a255fb4838cb983ad89e8d52fe1c4e2c84f5d))
 
 
 ### Features
 
-* add health check API and WebSocket live updates ([bbbfd18](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bbbfd189c0325c93b98e3a06659961065341ac96))
+* add bridge export/import functionality ([b6e774a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b6e774aa76bfdc9ad7d5ce6b5e1d0945f05fabb6))
 
 ## [1.3.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.3.0...v1.3.1) (2026-01-25)
 
