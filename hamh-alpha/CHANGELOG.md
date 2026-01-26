@@ -1,3 +1,10 @@
+# [2.0.0-alpha.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.3...v2.0.0-alpha.4) (2026-01-26)
+
+
+### Bug Fixes
+
+* pass APP_VERSION environment variable to Docker containers ([79bde68](https://github.com/RiDDiX/home-assistant-matter-hub/commit/79bde6896f0f6b90488e09cc960ff254dcf02e76))
+
 # [2.0.0-alpha.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.2...v2.0.0-alpha.3) (2026-01-26)
 
 
