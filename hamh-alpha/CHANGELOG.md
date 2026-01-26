@@ -1,3 +1,10 @@
+# [2.0.0-alpha.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.13...v2.0.0-alpha.14) (2026-01-26)
+
+
+### Bug Fixes
+
+* add missing await to super.initialize() in behavior servers ([#8](https://github.com/RiDDiX/home-assistant-matter-hub/issues/8)) ([803dd35](https://github.com/RiDDiX/home-assistant-matter-hub/commit/803dd3517ba86075c190be2c15a63182b3e72607))
+
 # [2.0.0-alpha.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.12...v2.0.0-alpha.13) (2026-01-26)
 
 
