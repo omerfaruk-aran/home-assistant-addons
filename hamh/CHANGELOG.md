@@ -1,3 +1,10 @@
+## [1.7.16](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.15...v1.7.16) (2026-01-27)
+
+
+### Bug Fixes
+
+* add null checks for entity.state in behavior servers and remove Matter.js patch workaround ([43942a9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/43942a9281998e6c73f7774626143808309a3111))
+
 ## [1.7.15](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.14...v1.7.15) (2026-01-27)
 
 
