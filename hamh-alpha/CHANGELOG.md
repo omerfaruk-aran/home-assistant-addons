@@ -1,3 +1,10 @@
+# [2.0.0-alpha.26](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.25...v2.0.0-alpha.26) (2026-01-27)
+
+
+### Features
+
+* add Pump device with proper PumpConfigurationAndControl cluster ([ebc989e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ebc989e6ef5f0c52fce90c815b6912d711430c4d))
+
 # [2.0.0-alpha.25](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.24...v2.0.0-alpha.25) (2026-01-27)
 
 
