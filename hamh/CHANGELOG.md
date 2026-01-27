@@ -1,3 +1,10 @@
+## [1.7.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.10...v1.7.11) (2026-01-27)
+
+
+### Bug Fixes
+
+* move PACKAGE_VERSION ARG after FROM in standalone Dockerfile ([5a1fbd1](https://github.com/RiDDiX/home-assistant-matter-hub/commit/5a1fbd143990f509598f01b418a777e5a38a403b))
+
 ## [1.7.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.9...v1.7.10) (2026-01-27)
 
 
