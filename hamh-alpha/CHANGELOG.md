@@ -1,3 +1,10 @@
+# [2.0.0-alpha.30](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.29...v2.0.0-alpha.30) (2026-01-27)
+
+
+### Features
+
+* add ProductName filter for Include/Exclude entity filtering ([dccf818](https://github.com/RiDDiX/home-assistant-matter-hub/commit/dccf81829c637e154f6cf807b6b4981a305fdbbd))
+
 # [2.0.0-alpha.29](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.28...v2.0.0-alpha.29) (2026-01-27)
 
 
