@@ -1,3 +1,10 @@
+# [2.0.0-alpha.25](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.24...v2.0.0-alpha.25) (2026-01-27)
+
+
+### Bug Fixes
+
+* remove broken Pump device (missing mandatory PumpConfigurationAndControl cluster) ([b1bd5b9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b1bd5b9637d6e43b80e58f598fdd64178f15490e))
+
 # [2.0.0-alpha.24](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.23...v2.0.0-alpha.24) (2026-01-27)
 
 
