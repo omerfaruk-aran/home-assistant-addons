@@ -1,3 +1,10 @@
+# [2.0.0-alpha.37](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.36...v2.0.0-alpha.37) (2026-01-27)
+
+
+### Bug Fixes
+
+* remove Matter.js patch workaround - now using asLocalActor per Matter.js team advice ([0b6c6c0](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0b6c6c029bda717b0d0049fd122b90749ae01679))
+
 # [2.0.0-alpha.36](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.35...v2.0.0-alpha.36) (2026-01-27)
 
 
