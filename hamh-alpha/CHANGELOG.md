@@ -1,3 +1,10 @@
+# [2.0.0-alpha.20](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.19...v2.0.0-alpha.20) (2026-01-27)
+
+
+### Bug Fixes
+
+* revert thermostat deadband changes - Matter.js enforces constraint on limits ([313e5d6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/313e5d62d3eb11b3401dbe7c7f09ba8a7ec9939c))
+
 # [2.0.0-alpha.19](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.18...v2.0.0-alpha.19) (2026-01-27)
 
 
