@@ -1,3 +1,10 @@
+# [2.0.0-alpha.33](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.32...v2.0.0-alpha.33) (2026-01-27)
+
+
+### Bug Fixes
+
+* prevent crash when entity is enabled from disabled state (missing state) ([e7901c9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e7901c9fb57ec7b814de5952d659337c77d57e5c))
+
 # [2.0.0-alpha.32](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.31...v2.0.0-alpha.32) (2026-01-27)
 
 
