@@ -1,3 +1,10 @@
+## [1.7.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.13...v1.7.14) (2026-01-27)
+
+
+### Features
+
+* add Pump device with proper PumpConfigurationAndControl cluster ([579b287](https://github.com/RiDDiX/home-assistant-matter-hub/commit/579b2877d337a2c6b0d25469dcca60166c8f499c))
+
 ## [1.7.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.12...v1.7.13) (2026-01-27)
 
 
