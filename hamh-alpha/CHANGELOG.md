@@ -1,3 +1,10 @@
+# [2.0.0-alpha.38](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.37...v2.0.0-alpha.38) (2026-01-27)
+
+
+### Bug Fixes
+
+* add null checks for entity.state in all behavior servers to prevent crashes when entities are deleted ([477da9c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/477da9c6ddbc20415c0d0f34cac19580644ba784))
+
 # [2.0.0-alpha.37](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.36...v2.0.0-alpha.37) (2026-01-27)
 
 
