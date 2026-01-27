@@ -1,3 +1,10 @@
+# [2.0.0-alpha.31](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.30...v2.0.0-alpha.31) (2026-01-27)
+
+
+### Features
+
+* add PM2.5 and PM10 concentration measurement sensors with numeric values ([b52a4c3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b52a4c3bfa01f6285cbdfca8d72f4fe0da68939d))
+
 # [2.0.0-alpha.30](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.29...v2.0.0-alpha.30) (2026-01-27)
 
 
