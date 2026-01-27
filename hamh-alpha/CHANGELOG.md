@@ -1,3 +1,10 @@
+# [2.0.0-alpha.29](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.28...v2.0.0-alpha.29) (2026-01-27)
+
+
+### Bug Fixes
+
+* handle Matter.js endpoint storage errors gracefully to prevent crashes ([2a059bc](https://github.com/RiDDiX/home-assistant-matter-hub/commit/2a059bcd7bec1dbac43821acfbe8c3fbbcb9d70d))
+
 # [2.0.0-alpha.28](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.27...v2.0.0-alpha.28) (2026-01-27)
 
 
