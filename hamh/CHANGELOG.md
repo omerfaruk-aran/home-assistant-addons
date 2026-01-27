@@ -1,3 +1,10 @@
+## [1.7.6](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.5...v1.7.6) (2026-01-27)
+
+
+### Bug Fixes
+
+* patch Matter.js FabricAccessControl to grant Operate access when cluster undefined ([ff9f554](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ff9f5545aafc8c8bf5629d9789978dc2f5c16d2d))
+
 ## [1.7.5](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.4...v1.7.5) (2026-01-27)
 
 
