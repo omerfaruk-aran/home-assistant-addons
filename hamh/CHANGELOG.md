@@ -1,3 +1,10 @@
+## [1.7.24](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.23...v1.7.24) (2026-01-28)
+
+
+### Bug Fixes
+
+* add asLocalActor to FanControlServer reactors for access control ([f3fb3fc](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f3fb3fc80de4873f416f13cef16e6cdb329d436b))
+
 ## [1.7.23](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.22...v1.7.23) (2026-01-28)
 
 
