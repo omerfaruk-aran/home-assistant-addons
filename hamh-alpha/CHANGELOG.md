@@ -1,3 +1,10 @@
+# [2.0.0-alpha.44](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.43...v2.0.0-alpha.44) (2026-01-28)
+
+
+### Bug Fixes
+
+* suppress transient endpoint storage errors in applyPatchState during behavior initialization ([4ab6f94](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4ab6f94ebfefb78c95a24ebbe15d367cf5e0a15d))
+
 # [2.0.0-alpha.43](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.42...v2.0.0-alpha.43) (2026-01-28)
 
 
