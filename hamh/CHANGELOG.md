@@ -1,3 +1,10 @@
+## [1.7.20](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.19...v1.7.20) (2026-01-28)
+
+
+### Bug Fixes
+
+* set thermostat defaults in ThermostatServer function for conformance ([7b0b956](https://github.com/RiDDiX/home-assistant-matter-hub/commit/7b0b956a81e9ef17550c3f8ebcf687137d1e23da))
+
 ## [1.7.19](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.18...v1.7.19) (2026-01-28)
 
 
