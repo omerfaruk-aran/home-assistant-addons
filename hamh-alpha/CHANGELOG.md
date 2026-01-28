@@ -1,3 +1,10 @@
+# [2.0.0-alpha.50](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.49...v2.0.0-alpha.50) (2026-01-28)
+
+
+### Features
+
+* add fan preset mode support and fix script filtering ([#26](https://github.com/RiDDiX/home-assistant-matter-hub/issues/26)) ([f63b715](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f63b71504206fe55964b6eb5c10aa1c728a71e5b))
+
 # [2.0.0-alpha.49](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.48...v2.0.0-alpha.49) (2026-01-28)
 
 
