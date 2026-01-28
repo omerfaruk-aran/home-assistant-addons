@@ -1,3 +1,10 @@
+## [1.7.23](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.22...v1.7.23) (2026-01-28)
+
+
+### Bug Fixes
+
+* use asLocalActor in thermostat reactors to fix access control issues ([585cc9b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/585cc9b4424e84d5381287ad6f7a1ab934c569f2))
+
 ## [1.7.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.21...v1.7.22) (2026-01-28)
 
 
