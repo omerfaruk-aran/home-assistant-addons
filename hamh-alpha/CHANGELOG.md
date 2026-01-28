@@ -1,3 +1,10 @@
+# [2.0.0-alpha.62](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.61...v2.0.0-alpha.62) (2026-01-28)
+
+
+### Bug Fixes
+
+* graceful handling of /api/system/info 404 and restore missing components ([26e396d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/26e396d409062e7613ebb6e626bc636b5a0d1664))
+
 # [2.0.0-alpha.61](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.60...v2.0.0-alpha.61) (2026-01-28)
 
 
