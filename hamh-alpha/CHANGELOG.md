@@ -1,3 +1,11 @@
+# [2.0.0-alpha.40](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.39...v2.0.0-alpha.40) (2026-01-28)
+
+
+### Bug Fixes
+
+* prevent thermostat init crash by setting default deadband and improve version reporting ([1fd5260](https://github.com/RiDDiX/home-assistant-matter-hub/commit/1fd526000c2a5c9599a14cee8f5c7cfea6d878ef))
+* satisfy CI lint (export server bases, organize imports) ([1c06a53](https://github.com/RiDDiX/home-assistant-matter-hub/commit/1c06a53bf5128fa69a51711adfc1821fffd4a245))
+
 # [2.0.0-alpha.39](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.38...v2.0.0-alpha.39) (2026-01-27)
 
 
