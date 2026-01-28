@@ -1,3 +1,10 @@
+# [2.0.0-alpha.51](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.50...v2.0.0-alpha.51) (2026-01-28)
+
+
+### Bug Fixes
+
+* handle transaction conflict in fan control state updates ([91b967f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/91b967fe19085d832a22e0af52c564f95116dfef))
+
 # [2.0.0-alpha.50](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.49...v2.0.0-alpha.50) (2026-01-28)
 
 
