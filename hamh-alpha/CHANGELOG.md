@@ -1,3 +1,10 @@
+# [2.0.0-alpha.54](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.53...v2.0.0-alpha.54) (2026-01-28)
+
+
+### Bug Fixes
+
+* set controlSequenceOfOperation based on features in initialize() ([#28](https://github.com/RiDDiX/home-assistant-matter-hub/issues/28)) ([627191c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/627191c598e7847ed45497f6eeb9e3e8ccda4a5f))
+
 # [2.0.0-alpha.53](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.52...v2.0.0-alpha.53) (2026-01-28)
 
 
