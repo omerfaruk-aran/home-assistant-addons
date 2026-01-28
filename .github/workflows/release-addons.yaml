@@ -52,9 +52,18 @@ jobs:
             CHANGELOG_URL="${{ github.event.inputs.changelogUrl }}"
           fi
 
-          # Append channel to project name if not latest (but not for testing)
-          if [ "$CHANNEL" != "latest" ] && [ "$PROJECT" != "hamh-testing" ]; then
-            PROJECT="$PROJECT-$CHANNEL"
+          # Only append channel if:
+          # 1. Channel is not "latest"
+          # 2. Project doesn't already contain the channel suffix
+          if [ "$CHANNEL" != "latest" ]; then
+            case "$PROJECT" in
+              *-alpha|*-testing)
+                # Project already has channel suffix, don't append
+                ;;
+              *)
+                PROJECT="$PROJECT-$CHANNEL"
+                ;;
+            esac
           fi
 
           echo "project=$PROJECT" >> "$GITHUB_OUTPUT"
