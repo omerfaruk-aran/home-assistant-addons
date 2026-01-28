@@ -1,3 +1,10 @@
+# [2.0.0-testing.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.10...v2.0.0-testing.11) (2026-01-28)
+
+
+### Features
+
+* improve system info API with more parameters (CPU, load, process info) ([4f62d98](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4f62d9853d758658dd20d44563ecd3f2c6328cd5))
+
 # [2.0.0-testing.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.9...v2.0.0-testing.10) (2026-01-28)
 
 
