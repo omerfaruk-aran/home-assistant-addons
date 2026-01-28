@@ -1,3 +1,10 @@
+## [1.7.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.17...v1.7.18) (2026-01-28)
+
+
+### Bug Fixes
+
+* prevent thermostat init crash by setting default deadband and improve version reporting ([b93b4c7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b93b4c7fae194636f1b6bea26dcfba958fc0c2ad))
+
 ## [1.7.17](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.16...v1.7.17) (2026-01-27)
 
 
