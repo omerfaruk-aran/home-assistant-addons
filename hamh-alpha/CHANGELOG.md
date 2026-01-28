@@ -1,3 +1,10 @@
+# [2.0.0-alpha.47](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.46...v2.0.0-alpha.47) (2026-01-28)
+
+
+### Bug Fixes
+
+* entity mapping delete using array index instead of entityId ([20b4d46](https://github.com/RiDDiX/home-assistant-matter-hub/commit/20b4d46030423a545f0bef34c97a901847a2cfe3))
+
 # [2.0.0-alpha.46](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.45...v2.0.0-alpha.46) (2026-01-28)
 
 
