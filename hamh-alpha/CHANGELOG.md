@@ -1,3 +1,10 @@
+# [2.0.0-alpha.57](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.56...v2.0.0-alpha.57) (2026-01-28)
+
+
+### Features
+
+* add full backup with Matter identity files ([#31](https://github.com/RiDDiX/home-assistant-matter-hub/issues/31)) ([29c934e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/29c934e5ac19415524b9fddd99564b2123d76331))
+
 # [2.0.0-alpha.56](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.55...v2.0.0-alpha.56) (2026-01-28)
 
 
