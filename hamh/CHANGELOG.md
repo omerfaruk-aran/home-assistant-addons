@@ -1,3 +1,10 @@
+## [1.7.26](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.25...v1.7.26) (2026-01-28)
+
+
+### Bug Fixes
+
+* use pre-commit reactor to set thermostatRunningMode before Matter.js internal handler ([#24](https://github.com/RiDDiX/home-assistant-matter-hub/issues/24)) ([6ccc964](https://github.com/RiDDiX/home-assistant-matter-hub/commit/6ccc9640362aae9cac9b0e6dfb0c51133bcdb5cf))
+
 ## [1.7.25](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.24...v1.7.25) (2026-01-28)
 
 
