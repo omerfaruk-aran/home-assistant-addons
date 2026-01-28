@@ -1,3 +1,10 @@
+## [1.7.19](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.18...v1.7.19) (2026-01-28)
+
+
+### Bug Fixes
+
+* enable PhysicalContact feature for OccupancySensing cluster (required since revision 5) ([855aeb9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/855aeb91e6d1284c8a9d8f21fddfb2a8108d89e2))
+
 ## [1.7.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.17...v1.7.18) (2026-01-28)
 
 
