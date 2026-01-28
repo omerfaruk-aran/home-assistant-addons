@@ -1,3 +1,17 @@
+# [2.0.0-testing.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.9...v2.0.0-testing.10) (2026-01-28)
+
+
+### Bug Fixes
+
+* graceful handling of /api/system/info 404 and restore missing components ([da587e9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/da587e96a13044d6e21de423a1b1569db56dc26b))
+
+# [2.0.0-testing.9](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.8...v2.0.0-testing.9) (2026-01-28)
+
+
+### Features
+
+* comprehensive UI enhancements - logs, system info, device overview, and devices page ([7a0c4f0](https://github.com/RiDDiX/home-assistant-matter-hub/commit/7a0c4f08d3c2f5d07988e5e9d8e0a6b5d45e5862))
+
 # [2.0.0-testing.8](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.7...v2.0.0-testing.8) (2026-01-28)
 
 
