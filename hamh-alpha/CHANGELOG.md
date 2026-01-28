@@ -1,3 +1,10 @@
+# [2.0.0-alpha.43](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.42...v2.0.0-alpha.43) (2026-01-28)
+
+
+### Bug Fixes
+
+* set thermostat controlSequenceOfOperation before first update ([7a47ff4](https://github.com/RiDDiX/home-assistant-matter-hub/commit/7a47ff41e781395318fb3edf7c0537619b039ca4))
+
 # [2.0.0-alpha.42](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.41...v2.0.0-alpha.42) (2026-01-28)
 
 
