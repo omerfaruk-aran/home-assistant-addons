@@ -1,3 +1,10 @@
+# [2.0.0-alpha.49](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.48...v2.0.0-alpha.49) (2026-01-28)
+
+
+### Bug Fixes
+
+* call HA action before thermostatRunningMode update to prevent blocking ([#24](https://github.com/RiDDiX/home-assistant-matter-hub/issues/24)) ([1759fb2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/1759fb236a2493ff9871648a2a87f06f461521f6))
+
 # [2.0.0-alpha.48](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.47...v2.0.0-alpha.48) (2026-01-28)
 
 
