@@ -1,3 +1,10 @@
+# [2.0.0-alpha.63](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.62...v2.0.0-alpha.63) (2026-01-28)
+
+
+### Features
+
+* improve system info API with more parameters (CPU, load, process info) ([8c60bc3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8c60bc3d7889daf9aa7e609c77d95d15dee4e502))
+
 # [2.0.0-alpha.62](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.61...v2.0.0-alpha.62) (2026-01-28)
 
 
