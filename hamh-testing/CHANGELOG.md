@@ -1,3 +1,10 @@
+# [4.0.0-testing.20](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.19...v4.0.0-testing.20) (2026-01-29)
+
+
+### Bug Fixes
+
+* clamp maxHeatSetpointLimit for heating-only thermostats to satisfy Matter.js constraints ([ab148c2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ab148c2349819776846f65cf662f926e998574d2))
+
 # [4.0.0-testing.19](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.18...v4.0.0-testing.19) (2026-01-29)
 
 
