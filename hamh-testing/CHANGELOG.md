@@ -1,3 +1,10 @@
+# [4.0.0-testing.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.21...v4.0.0-testing.22) (2026-01-29)
+
+
+### Bug Fixes
+
+* clamp maxHeatSetpointLimit when maxCoolSetpointLimit would exceed 35°C ([19608a4](https://github.com/RiDDiX/home-assistant-matter-hub/commit/19608a44dd766e61eb154f2ec889db339a71217e))
+
 # [4.0.0-testing.21](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.20...v4.0.0-testing.21) (2026-01-29)
 
 
