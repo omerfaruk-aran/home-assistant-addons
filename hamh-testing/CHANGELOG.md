@@ -1,3 +1,10 @@
+# [2.0.0-testing.25](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.24...v2.0.0-testing.25) (2026-01-29)
+
+
+### Features
+
+* add remaining Vision 1 domain endpoints (MediaPlayer, Vacuum, Humidifier, Valve, Button, Scene) ([f95d531](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f95d5319aef896737d0011f2c468d51daa0230e8))
+
 # [2.0.0-testing.24](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.23...v2.0.0-testing.24) (2026-01-29)
 
 
