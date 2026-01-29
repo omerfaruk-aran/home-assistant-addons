@@ -1,3 +1,10 @@
+# [2.0.0-alpha.91](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.90...v2.0.0-alpha.91) (2026-01-29)
+
+
+### Bug Fixes
+
+* expand thermostat setpoint limits instead of restricting them ([6957c46](https://github.com/RiDDiX/home-assistant-matter-hub/commit/6957c46ea6320b563826e59471ff9084ac649ce6))
+
 # [2.0.0-alpha.90](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.89...v2.0.0-alpha.90) (2026-01-29)
 
 
