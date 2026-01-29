@@ -1,3 +1,10 @@
+# [4.0.0-testing.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.25...v4.0.0-testing.1) (2026-01-29)
+
+
+### Bug Fixes
+
+* auto-detect Overkiz covers and suppress transaction conflicts for stable position display ([f540bf9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f540bf93c14821baf658ff8a8ab7558d7543ae3f))
+
 # [2.0.0-testing.25](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.24...v2.0.0-testing.25) (2026-01-29)
 
 
