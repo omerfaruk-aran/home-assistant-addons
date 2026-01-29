@@ -26,6 +26,11 @@ on:
 #   version: "3.0.0"
 #   changelogUrl: "https://..."
 
+# Serialize all releases to prevent push conflicts
+concurrency:
+  group: addon-release
+  cancel-in-progress: false
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -101,6 +106,8 @@ jobs:
       - name: Commit and Push
         run: |
           git commit -m "release(${{ steps.event_parser.outputs.project }}): ${{ steps.event_parser.outputs.version }}"
+          # Pull any changes from concurrent releases and rebase
+          git pull --rebase origin main
           git push origin main
 
       - name: Create GitHub Release
