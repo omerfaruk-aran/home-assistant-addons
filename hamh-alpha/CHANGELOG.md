@@ -1,3 +1,10 @@
+# [2.0.0-alpha.103](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.102...v2.0.0-alpha.103) (2026-01-29)
+
+
+### Features
+
+* add custom image upload for bridge icons (PNG, JPG, GIF, WebP, SVG) ([6687fca](https://github.com/RiDDiX/home-assistant-matter-hub/commit/6687fca87d08bca9a16170167e8be618e4162da4))
+
 # [2.0.0-alpha.102](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.101...v2.0.0-alpha.102) (2026-01-29)
 
 
