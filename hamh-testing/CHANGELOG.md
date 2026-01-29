@@ -1,3 +1,10 @@
+# [2.0.0-testing.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.21...v2.0.0-testing.22) (2026-01-29)
+
+
+### Bug Fixes
+
+* correct thermostat deadband constraint logic with 2.5C margin ([93ec659](https://github.com/RiDDiX/home-assistant-matter-hub/commit/93ec659e816f1ec226055f045a0cfce57272cd05))
+
 # [2.0.0-testing.21](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.20...v2.0.0-testing.21) (2026-01-29)
 
 
