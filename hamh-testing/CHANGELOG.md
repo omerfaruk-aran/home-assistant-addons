@@ -1,3 +1,5 @@
+# [2.0.0-testing.17](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.16...v2.0.0-testing.17) (2026-01-29)
+
 # [2.0.0-testing.16](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.15...v2.0.0-testing.16) (2026-01-29)
 
 
