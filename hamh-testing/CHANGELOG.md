@@ -1,3 +1,10 @@
+# [2.0.0-testing.19](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.18...v2.0.0-testing.19) (2026-01-29)
+
+
+### Bug Fixes
+
+* add asLocalActor to preUpdateRunningMode for thermostat systemMode writes (fixes [#24](https://github.com/RiDDiX/home-assistant-matter-hub/issues/24)) ([b289c0e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b289c0eeef4e36381390f81cfe485718d10fd1af))
+
 # [2.0.0-testing.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.17...v2.0.0-testing.18) (2026-01-29)
 
 
