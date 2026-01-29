@@ -1,3 +1,10 @@
+# [2.0.0-testing.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.11...v2.0.0-testing.12) (2026-01-29)
+
+
+### Features
+
+* add Full Backup with Identity option and fix API paths in BackupRestore ([ed3bc78](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ed3bc7861314d61f0647674a05e6b270397c4115))
+
 # [2.0.0-testing.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.10...v2.0.0-testing.11) (2026-01-28)
 
 
