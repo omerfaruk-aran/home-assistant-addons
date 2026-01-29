@@ -1,5 +1,5 @@
 version: "2.0.0-testing.12"
-image: ghcr.io/riddix/home-assistant-matter-hub-addon-testing
+image: ghcr.io/riddix/home-assistant-matter-hub-addon
 slug: hamh-testing
 name: Home-Assistant-Matter-Hub (Testing)
 description: "\U0001F5FA️ TESTING VERSION - Powered by Matter.js Testing Branch! Contains latest Matter.js features and debug logging."
