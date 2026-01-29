@@ -1,3 +1,10 @@
+# [2.0.0-alpha.104](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.103...v2.0.0-alpha.104) (2026-01-29)
+
+
+### Bug Fixes
+
+* ensure minCoolSetpointLimit >= minHeatSetpointLimit + deadband for Heating+Cooling thermostats ([00dbb46](https://github.com/RiDDiX/home-assistant-matter-hub/commit/00dbb4604c610f17f7a47c49ea456d7c5660c7d4))
+
 # [2.0.0-alpha.103](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.102...v2.0.0-alpha.103) (2026-01-29)
 
 
