@@ -1,3 +1,10 @@
+# [2.0.0-alpha.85](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.84...v2.0.0-alpha.85) (2026-01-29)
+
+
+### Features
+
+* Add All Devices overview with entity mapping support ([18b6f62](https://github.com/RiDDiX/home-assistant-matter-hub/commit/18b6f62f8d04113c1e9a515f8822461a400419c4))
+
 # [2.0.0-alpha.84](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.83...v2.0.0-alpha.84) (2026-01-29)
 
 
