@@ -1,3 +1,10 @@
+# [2.0.0-alpha.93](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.92...v2.0.0-alpha.93) (2026-01-29)
+
+
+### Bug Fixes
+
+* handle null transitionTime from Google Home (fixes [#41](https://github.com/RiDDiX/home-assistant-matter-hub/issues/41)) ([f4a0ff3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f4a0ff342aec30d4f1d4faf161afd66757e6e9cb))
+
 # [2.0.0-alpha.92](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.91...v2.0.0-alpha.92) (2026-01-29)
 
 
