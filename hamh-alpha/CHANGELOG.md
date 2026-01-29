@@ -1,3 +1,10 @@
+# [2.0.0-alpha.72](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.71...v2.0.0-alpha.72) (2026-01-29)
+
+
+### Bug Fixes
+
+* remove AutoMode feature to prevent Matter.js permission error on thermostatRunningMode (fixes [#24](https://github.com/RiDDiX/home-assistant-matter-hub/issues/24)) ([36d50b2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/36d50b25a2fc189619cd5252a97cdb2c88d025fc))
+
 # [2.0.0-alpha.71](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.70...v2.0.0-alpha.71) (2026-01-29)
 
 
