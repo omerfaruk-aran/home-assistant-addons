@@ -1,3 +1,13 @@
+# [2.0.0-testing.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.12...v2.0.0-testing.13) (2026-01-29)
+
+
+* feat!: bump to version 4.0 series for testing branch ([427b12a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/427b12ae90d43f5278a9e832be26e6776ef09eac))
+
+
+### BREAKING CHANGES
+
+* Major version bump to 4.0 series. This testing branch may contain breaking changes, experimental features, and unstable code. Use at your own risk.
+
 # [2.0.0-testing.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.11...v2.0.0-testing.12) (2026-01-29)
 
 
