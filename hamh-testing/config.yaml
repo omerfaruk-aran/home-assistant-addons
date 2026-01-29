@@ -2,7 +2,7 @@ version: "2.0.0-testing.12"
 image: ghcr.io/riddix/home-assistant-matter-hub-addon
 slug: hamh-testing
 name: Home-Assistant-Matter-Hub (Testing)
-description: "\U0001F5FA️ TESTING VERSION - Powered by Matter.js Testing Branch! Contains latest Matter.js features and debug logging."
+description: "⚠️ TESTING VERSION - May contain BREAKING CHANGES! Experimental features, unstable code, and cutting-edge Matter.js updates. Use at your own risk. Not recommended for production use."
 url: https://github.com/riddix/home-assistant-matter-hub/tree/testing
 panel_icon: mdi:bug
 panel_title: Matter Hub Testing
