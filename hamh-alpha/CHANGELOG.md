@@ -1,3 +1,10 @@
+# [2.0.0-alpha.92](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.91...v2.0.0-alpha.92) (2026-01-29)
+
+
+### Bug Fixes
+
+* check HVAC mode for temperature range support (fixes [#9](https://github.com/RiDDiX/home-assistant-matter-hub/issues/9)) ([c1244b9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c1244b94896c4d8376ce6a74256480fa4f8a89ca))
+
 # [2.0.0-alpha.91](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.90...v2.0.0-alpha.91) (2026-01-29)
 
 
