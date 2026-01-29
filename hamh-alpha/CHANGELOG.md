@@ -1,3 +1,10 @@
+# [2.0.0-alpha.89](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.88...v2.0.0-alpha.89) (2026-01-29)
+
+
+### Features
+
+* add All Devices button to EndpointList in bridge details ([6c8f1d4](https://github.com/RiDDiX/home-assistant-matter-hub/commit/6c8f1d490705d610f67588a41015190f7b17cf4d))
+
 # [2.0.0-alpha.88](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.87...v2.0.0-alpha.88) (2026-01-29)
 
 
