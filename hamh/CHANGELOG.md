@@ -1,3 +1,10 @@
+## [1.7.41](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.40...v1.7.41) (2026-01-29)
+
+
+### Bug Fixes
+
+* preserve light brightness on turn-on and correct thermostat setpoint handling (fixes [#37](https://github.com/RiDDiX/home-assistant-matter-hub/issues/37), [#38](https://github.com/RiDDiX/home-assistant-matter-hub/issues/38)) ([0facacc](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0facaccec18270c748d04915b018aa72d479c761))
+
 ## [1.7.40](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.7.39...v1.7.40) (2026-01-29)
 
 
