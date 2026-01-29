@@ -1,3 +1,10 @@
+# [4.0.0-testing.15](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.14...v4.0.0-testing.15) (2026-01-29)
+
+
+### Features
+
+* add GarageDoorDevice for Apple CarPlay support (fixes [#50](https://github.com/RiDDiX/home-assistant-matter-hub/issues/50)) ([38e9ab8](https://github.com/RiDDiX/home-assistant-matter-hub/commit/38e9ab8ad9ce5b62699b80eff03f72302794a6dd))
+
 # [4.0.0-testing.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.13...v4.0.0-testing.14) (2026-01-29)
 
 
