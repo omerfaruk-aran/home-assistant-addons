@@ -1,3 +1,10 @@
+# [2.0.0-alpha.79](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.78...v2.0.0-alpha.79) (2026-01-29)
+
+
+### Bug Fixes
+
+* preserve light brightness on turn-on and correct thermostat setpoint handling (fixes [#37](https://github.com/RiDDiX/home-assistant-matter-hub/issues/37), [#38](https://github.com/RiDDiX/home-assistant-matter-hub/issues/38)) ([3723d32](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3723d3267dcbe7d7937222aecfe9d4ae76648ff9))
+
 # [2.0.0-alpha.78](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.77...v2.0.0-alpha.78) (2026-01-29)
 
 
