@@ -1,3 +1,10 @@
+# [2.0.0-alpha.82](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.81...v2.0.0-alpha.82) (2026-01-29)
+
+
+### Bug Fixes
+
+* handle missing transitionTime in LevelControl commands for Google Home compatibility ([622787a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/622787aa4791535336ad4c17f10855374469795c))
+
 # [2.0.0-alpha.81](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.80...v2.0.0-alpha.81) (2026-01-29)
 
 
