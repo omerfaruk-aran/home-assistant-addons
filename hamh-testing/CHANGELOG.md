@@ -1,3 +1,10 @@
+# [2.0.0-testing.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.13...v2.0.0-testing.14) (2026-01-29)
+
+
+### Bug Fixes
+
+* use relative API paths for Home Assistant ingress compatibility ([d53131b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d53131b32f63fb1ea206f8b44dba5f8df47323ea))
+
 # [2.0.0-testing.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.12...v2.0.0-testing.13) (2026-01-29)
 
 
