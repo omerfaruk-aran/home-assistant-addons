@@ -1,3 +1,10 @@
+# [4.0.0-testing.26](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.25...v4.0.0-testing.26) (2026-01-29)
+
+
+### Bug Fixes
+
+* add error handling for bridge icon existence check ([e1a9489](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e1a9489df2e3196f3ff20d1df6f3f160618a36bd))
+
 # [4.0.0-testing.25](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.24...v4.0.0-testing.25) (2026-01-29)
 
 
