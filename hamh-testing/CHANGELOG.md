@@ -1,3 +1,10 @@
+# [2.0.0-testing.21](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.20...v2.0.0-testing.21) (2026-01-29)
+
+
+### Bug Fixes
+
+* adjust thermostat setpoint limits to satisfy Matter.js 200 deadband constraint ([4ac7f0d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4ac7f0d3d729e8dbf90440ebdcb1b36c6294a06c))
+
 # [2.0.0-testing.20](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-testing.19...v2.0.0-testing.20) (2026-01-29)
 
 
