@@ -1,3 +1,10 @@
+# [4.0.0-testing.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.17...v4.0.0-testing.18) (2026-01-29)
+
+
+### Bug Fixes
+
+* support auto-only thermostats by treating them as heating devices (fixes [#54](https://github.com/RiDDiX/home-assistant-matter-hub/issues/54)) ([c3a5376](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c3a5376f820e0aafd4e29362a2ea73a12f122cd8))
+
 # [4.0.0-testing.17](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.16...v4.0.0-testing.17) (2026-01-29)
 
 
