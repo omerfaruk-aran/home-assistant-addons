@@ -1,3 +1,10 @@
+# [2.0.0-alpha.94](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.93...v2.0.0-alpha.94) (2026-01-29)
+
+
+### Features
+
+* add GarageDoorDevice for Apple CarPlay support (fixes [#50](https://github.com/RiDDiX/home-assistant-matter-hub/issues/50)) ([13c5ca8](https://github.com/RiDDiX/home-assistant-matter-hub/commit/13c5ca88c571b0895dec6516a1053a4ff08cb3f9))
+
 # [2.0.0-alpha.93](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.92...v2.0.0-alpha.93) (2026-01-29)
 
 
