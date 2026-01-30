@@ -1,3 +1,11 @@
+# [2.0.0-alpha.119](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.118...v2.0.0-alpha.119) (2026-01-30)
+
+
+### Bug Fixes
+
+* add PowerSource for vacuum when battery_level attribute exists (fixes [#59](https://github.com/RiDDiX/home-assistant-matter-hub/issues/59)) ([e9aea12](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e9aea1271be060bd057ea095ae3977537b64c27c))
+* add powerSource to ClusterId enum and fix vacuum PowerSource logic ([c27e3f7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c27e3f7ec1eca0467f6cfd30cba9f74811a7e657))
+
 # [2.0.0-alpha.118](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.117...v2.0.0-alpha.118) (2026-01-30)
 
 
