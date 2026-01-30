@@ -1,3 +1,10 @@
+# [4.0.0-testing.38](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.37...v4.0.0-testing.38) (2026-01-30)
+
+
+### Bug Fixes
+
+* make coverUseHomeAssistantPercentage consistent for reading and writing ([#34](https://github.com/RiDDiX/home-assistant-matter-hub/issues/34)) ([727d9de](https://github.com/RiDDiX/home-assistant-matter-hub/commit/727d9de8b8872199ffb38d4b16daaa6db08b2f70))
+
 # [4.0.0-testing.37](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.36...v4.0.0-testing.37) (2026-01-30)
 
 
