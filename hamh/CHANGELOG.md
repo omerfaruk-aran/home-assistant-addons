@@ -1,3 +1,10 @@
+## [1.10.2](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.1...v1.10.2) (2026-01-30)
+
+
+### Bug Fixes
+
+* hidden entities should only be included via feature flag, not by filter match (fixes [#56](https://github.com/RiDDiX/home-assistant-matter-hub/issues/56)) ([f5cb1b7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f5cb1b7c224d8195b431b143281ff2d86d0b91c7))
+
 ## [1.10.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.0...v1.10.1) (2026-01-30)
 
 
