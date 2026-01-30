@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.0...v1.10.1) (2026-01-30)
+
+
+### Bug Fixes
+
+* use device_id instead of entity_id for device lookup (fixes [#56](https://github.com/RiDDiX/home-assistant-matter-hub/issues/56)) ([4dafb48](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4dafb48efa11fc47f5668e216b70069b2c89a8a2))
+
 # [1.10.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.9.0...v1.10.0) (2026-01-30)
 
 
