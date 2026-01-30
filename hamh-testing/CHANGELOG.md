@@ -1,3 +1,10 @@
+# [4.0.0-testing.39](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.38...v4.0.0-testing.39) (2026-01-30)
+
+
+### Features
+
+* add battery status support for vacuum devices (fixes [#59](https://github.com/RiDDiX/home-assistant-matter-hub/issues/59)) ([a12ddde](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a12ddde178f29cb21aaaad2b53b5c97eb0e70a94))
+
 # [4.0.0-testing.38](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.37...v4.0.0-testing.38) (2026-01-30)
 
 
