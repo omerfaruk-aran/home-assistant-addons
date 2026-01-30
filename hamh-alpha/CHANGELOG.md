@@ -1,3 +1,10 @@
+# [2.0.0-alpha.121](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.120...v2.0.0-alpha.121) (2026-01-30)
+
+
+### Bug Fixes
+
+* support 'battery' attribute for Dreame and similar vacuums ([#59](https://github.com/RiDDiX/home-assistant-matter-hub/issues/59)) ([dbc6533](https://github.com/RiDDiX/home-assistant-matter-hub/commit/dbc65335cbc94aba8de83af8e136c851b086fa8e))
+
 # [2.0.0-alpha.120](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.119...v2.0.0-alpha.120) (2026-01-30)
 
 
