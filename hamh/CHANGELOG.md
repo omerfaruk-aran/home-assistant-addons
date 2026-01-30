@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.9.0...v1.10.0) (2026-01-30)
+
+
+### Features
+
+* auto-refresh Entity Mappings list after saving from EndpointList ([4721ddd](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4721ddd50602881e79fec8ccf89e3bbae7c78c25))
+
 # [1.9.0](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.8.1...v1.9.0) (2026-01-29)
 
 
