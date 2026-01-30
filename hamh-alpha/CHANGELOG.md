@@ -1,3 +1,15 @@
+# [2.0.0-alpha.116](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.115...v2.0.0-alpha.116) (2026-01-30)
+
+
+### Bug Fixes
+
+* change humidifier from OnOffPlugInUnit to FanDevice for better Matter controller representation ([#58](https://github.com/RiDDiX/home-assistant-matter-hub/issues/58)) ([765e5e9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/765e5e9e2d99e25408b3bbdd6903701d4d57f725))
+
+
+### Features
+
+* add humidity sensor and auto mode support for humidifier ([#58](https://github.com/RiDDiX/home-assistant-matter-hub/issues/58)) ([ce9871c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ce9871ccc5e322085c7a14045391a5acdec4a91c))
+
 # [2.0.0-alpha.115](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.114...v2.0.0-alpha.115) (2026-01-30)
 
 
