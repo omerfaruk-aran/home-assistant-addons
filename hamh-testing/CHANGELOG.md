@@ -1,3 +1,10 @@
+# [4.0.0-testing.34](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.33...v4.0.0-testing.34) (2026-01-30)
+
+
+### Bug Fixes
+
+* remove leading slash from bridge-icons API response for Ingress compatibility ([df9f26c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/df9f26c3ea4f044058f2abfab9b1e61166a30854))
+
 # [4.0.0-testing.33](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.32...v4.0.0-testing.33) (2026-01-30)
 
 
