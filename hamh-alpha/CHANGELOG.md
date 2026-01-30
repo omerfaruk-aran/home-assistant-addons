@@ -1,3 +1,10 @@
+# [2.0.0-alpha.115](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.114...v2.0.0-alpha.115) (2026-01-30)
+
+
+### Bug Fixes
+
+* include icon field in bridge API response ([2b7718b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/2b7718b0c38591c9d46261efed89b78a364de56a))
+
 # [2.0.0-alpha.114](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.113...v2.0.0-alpha.114) (2026-01-30)
 
 
