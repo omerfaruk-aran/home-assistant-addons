@@ -1,3 +1,10 @@
+# [2.0.0-alpha.132](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.131...v2.0.0-alpha.132) (2026-01-31)
+
+
+### Bug Fixes
+
+* include bridge icons in full backup export/import ([d06b10a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d06b10adcfb0def875be3b35239dfaf5ae604911))
+
 # [2.0.0-alpha.131](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.130...v2.0.0-alpha.131) (2026-01-31)
 
 
