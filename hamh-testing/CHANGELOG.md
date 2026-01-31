@@ -1,3 +1,11 @@
+# [4.1.0-testing.8](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.7...v4.1.0-testing.8) (2026-01-31)
+
+
+### Features
+
+* implement Vision 1 callback-based architecture for Light and Fan endpoints ([2c9955d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/2c9955d8faa46f82c71e4e4443f75a1d9011854e))
+* implement Vision 1 callback-based architecture for Switch, Lock, Cover, Button, Valve, Scene, Humidifier endpoints ([6eaf622](https://github.com/RiDDiX/home-assistant-matter-hub/commit/6eaf622e15f128c3b0872a54b3578350d8f1f21d))
+
 # [4.1.0-testing.7](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.6...v4.1.0-testing.7) (2026-01-31)
 
 
