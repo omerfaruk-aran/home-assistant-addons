@@ -1,3 +1,10 @@
+# [4.1.0-testing.5](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.4...v4.1.0-testing.5) (2026-01-31)
+
+
+### Bug Fixes
+
+* add sensor type factories to enable entity mapping override ([#73](https://github.com/RiDDiX/home-assistant-matter-hub/issues/73)) ([ea20436](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ea20436d2a43af0de5590b93a90f58602d1f9439))
+
 # [4.1.0-testing.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.3...v4.1.0-testing.4) (2026-01-31)
 
 
