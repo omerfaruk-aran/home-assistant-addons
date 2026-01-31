@@ -1,3 +1,10 @@
+# [4.1.0-testing.16](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.15...v4.1.0-testing.16) (2026-01-31)
+
+
+### Bug Fixes
+
+* update Vision 1 behaviors to set state immediately on commands (fixes Apple Home 'Not Responding') ([ffe9077](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ffe907749bf914771c82ddfc6280ce7200cd27fb))
+
 # [4.1.0-testing.15](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.14...v4.1.0-testing.15) (2026-01-31)
 
 
