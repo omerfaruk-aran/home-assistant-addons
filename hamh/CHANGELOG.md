@@ -1,3 +1,10 @@
+## [1.10.6](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.5...v1.10.6) (2026-01-31)
+
+
+### Bug Fixes
+
+* add water_heater to entity mapping dropdown and backend factories ([ccdda2b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ccdda2bc465aaa251e48a98d0f8d3ef89143f772))
+
 ## [1.10.5](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.4...v1.10.5) (2026-01-31)
 
 
