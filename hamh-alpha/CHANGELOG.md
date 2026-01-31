@@ -1,3 +1,10 @@
+# [2.0.0-alpha.124](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.123...v2.0.0-alpha.124) (2026-01-31)
+
+
+### Features
+
+* add Update device class mapping to binary sensor ([bb411f3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bb411f3d496ce9e67b318a3838d9453acaa3f933))
+
 # [2.0.0-alpha.123](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.122...v2.0.0-alpha.123) (2026-01-31)
 
 
