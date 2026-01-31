@@ -1,3 +1,10 @@
+# [4.0.0-testing.49](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.48...v4.0.0-testing.49) (2026-01-31)
+
+
+### Bug Fixes
+
+* keep heat_cool as default fallback for auto mode mapping ([8901797](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8901797780730b3725abd4094c10fbd12ef70919))
+
 # [4.0.0-testing.48](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.47...v4.0.0-testing.48) (2026-01-31)
 
 
