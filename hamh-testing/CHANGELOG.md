@@ -1,3 +1,10 @@
+# [4.1.0-testing.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.10...v4.1.0-testing.11) (2026-01-31)
+
+
+### Bug Fixes
+
+* illuminance sensor minMeasuredValue must be 1 per Matter spec ([fa8818b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/fa8818b33d4d7963420f60e0a89459941be4d0b3))
+
 # [4.1.0-testing.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.9...v4.1.0-testing.10) (2026-01-31)
 
 
