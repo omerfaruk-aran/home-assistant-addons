@@ -1,3 +1,10 @@
+# [4.1.0-testing.15](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.14...v4.1.0-testing.15) (2026-01-31)
+
+
+### Bug Fixes
+
+* prevent synchronous-transaction-conflict in LightEndpoint by setting levelControl before onOff ([0babb7d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0babb7d1e67f1dd9f5d5aad19bc615f69bd67616))
+
 # [4.1.0-testing.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.13...v4.1.0-testing.14) (2026-01-31)
 
 
