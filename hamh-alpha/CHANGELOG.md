@@ -88,6 +88,7 @@
 * add Tuya, LG ThinQ, and Aqara vendor IDs to health dashboard ([4893056](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4893056fe94a6d3b799364477d81d4d004dade1c))
 * Add TVOC sensor with numeric ppb value (related to [#42](https://github.com/RiDDiX/home-assistant-matter-hub/issues/42)) ([31dad1e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/31dad1e66878b70371c4c2c62ce840cdfac8ba61))
 * add Update device class mapping to binary sensor ([2cc0b4f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/2cc0b4f0337de737a5f8c17b1865deb031235f79))
+* add vacuum room selection support via RvcRunMode ([#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)) ([bea9068](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bea906809a4542ce8aefe367950163ed39cff607))
 * auto-refresh Entity Mappings list after saving from EndpointList ([4721ddd](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4721ddd50602881e79fec8ccf89e3bbae7c78c25))
 * capture application logs in buffer for Log Viewer API ([3d94994](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3d9499450a3b4c9ccb84512a445347e1dbbef08f))
 * comprehensive UI enhancements - logs, system info, device overview, and devices page ([5e621aa](https://github.com/RiDDiX/home-assistant-matter-hub/commit/5e621aa5d0cf88b0785a4780f6f3d21cd329c522))
