@@ -1,3 +1,37 @@
+## [1.10.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.3...v1.10.4) (2026-01-31)
+
+
+### Bug Fixes
+
+* add PowerSource for vacuum when battery_level attribute exists (fixes [#59](https://github.com/RiDDiX/home-assistant-matter-hub/issues/59)) ([e9aea12](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e9aea1271be060bd057ea095ae3977537b64c27c))
+* add powerSource to ClusterId enum and fix vacuum PowerSource logic ([c27e3f7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c27e3f7ec1eca0467f6cfd30cba9f74811a7e657))
+* apply customName from entity mapping to Matter nodeLabel ([d6a529c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d6a529c1f692ed4bba0e7a45234149f24a9b49ba))
+* bridge icon selection now applies correctly, remove duplicate status chip, fix button inverted state ([#57](https://github.com/RiDDiX/home-assistant-matter-hub/issues/57)), add remote device support ([#40](https://github.com/RiDDiX/home-assistant-matter-hub/issues/40)) ([98ff47f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/98ff47ff7a7335bfee36854744466c12dfe52807))
+* change humidifier from OnOffPlugInUnit to FanDevice for better Matter controller representation ([#58](https://github.com/RiDDiX/home-assistant-matter-hub/issues/58)) ([765e5e9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/765e5e9e2d99e25408b3bbdd6903701d4d57f725))
+* correct inverted cover state-based position fallback ([#72](https://github.com/RiDDiX/home-assistant-matter-hub/issues/72)) ([634a9d0](https://github.com/RiDDiX/home-assistant-matter-hub/commit/634a9d0685fd53ce4fec7b4ea5e00b8e72c03765))
+* detect humidity from current_humidity attribute, not just TARGET_HUMIDITY feature ([#67](https://github.com/RiDDiX/home-assistant-matter-hub/issues/67)) ([9133491](https://github.com/RiDDiX/home-assistant-matter-hub/commit/913349188c519c12fbd7b359e356e41fd1d33e6b))
+* hidden entities should only be included via feature flag, not by filter match (fixes [#56](https://github.com/RiDDiX/home-assistant-matter-hub/issues/56)) ([3e19be2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3e19be239f57ebf0495006d2df3b5c92ec4e9fbb))
+* improve hvac_mode auto mapping for climate entities ([#71](https://github.com/RiDDiX/home-assistant-matter-hub/issues/71)) ([bfa55e9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bfa55e9ef70b39f3a530d65629d1de7d97f76d65))
+* include icon field in bridge API response ([2b7718b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/2b7718b0c38591c9d46261efed89b78a364de56a))
+* keep heat_cool as default fallback for auto mode mapping ([a8b87d4](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a8b87d4d1c8bc27b3e2de1977784131b932d2d20))
+* make coverUseHomeAssistantPercentage consistent for reading and writing ([#34](https://github.com/RiDDiX/home-assistant-matter-hub/issues/34)) ([30b9f53](https://github.com/RiDDiX/home-assistant-matter-hub/commit/30b9f53781c10c75d62fd1a62771703823a19698))
+* merge alpha fixes into main (humidity detection, cover position, hvac auto mode, etc.) ([674b15e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/674b15e61f057e7ce29082b301f22bd88b6c4299))
+* preserve icon selection when saving bridge config ([c8788cf](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c8788cf8785efcbe352abd9a2abc32d6be8d3446))
+* remove leading slash from bridge-icons API response for Ingress compatibility ([79a9ca9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/79a9ca98330406c8b1fbe6a63708f50f161c7b3f))
+* support 'battery' attribute for Dreame and similar vacuums ([#59](https://github.com/RiDDiX/home-assistant-matter-hub/issues/59)) ([dbc6533](https://github.com/RiDDiX/home-assistant-matter-hub/commit/dbc65335cbc94aba8de83af8e136c851b086fa8e))
+* use device_id instead of entity_id for device lookup (fixes [#56](https://github.com/RiDDiX/home-assistant-matter-hub/issues/56)) ([8afe290](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8afe290a37e1c1a5622d5ac0a3baafc84435e082))
+* use HA limits directly for single-mode thermostats, wide limits for dual-mode ([#52](https://github.com/RiDDiX/home-assistant-matter-hub/issues/52)) ([1044a55](https://github.com/RiDDiX/home-assistant-matter-hub/commit/1044a558556ae39f5f07a8e22c6b6b2498cd9cc2))
+
+
+### Features
+
+* add alexaPreserveBrightnessOnTurnOn feature flag to prevent brightness reset ([#37](https://github.com/RiDDiX/home-assistant-matter-hub/issues/37)) ([4f3c4de](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4f3c4dedb65c9af5e961973cef66e1d0dc6dd086))
+* add battery status support for vacuum devices (fixes [#59](https://github.com/RiDDiX/home-assistant-matter-hub/issues/59)) ([c15a038](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c15a03866a4826051f80bd6d0f1088ffab09079c))
+* add humidity sensor and auto mode support for humidifier ([#58](https://github.com/RiDDiX/home-assistant-matter-hub/issues/58)) ([ce9871c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ce9871ccc5e322085c7a14045391a5acdec4a91c))
+* add Update device class mapping to binary sensor ([bb411f3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bb411f3d496ce9e67b318a3838d9453acaa3f933))
+* add WaterValveDevice for valve domain and RoomAirConditioner for climate with fan_mode ([0505cf8](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0505cf8a246f9478d14eeb47b4bf10130a30aaf2))
+* auto-refresh Entity Mappings list after saving from EndpointList ([8c18888](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8c188884dfd4d4a9cf81a5502c63f53a08abb084))
+
 ## [1.10.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.2...v1.10.3) (2026-01-31)
 
 
