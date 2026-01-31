@@ -1,3 +1,10 @@
+# [2.0.0-alpha.136](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.135...v2.0.0-alpha.136) (2026-01-31)
+
+
+### Bug Fixes
+
+* set minMeasuredValue to 1 for IlluminanceMeasurement (Matter spec requirement) ([4344b53](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4344b5353a1bf175a137487f08035cf62c96b9ea))
+
 # [2.0.0-alpha.135](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.134...v2.0.0-alpha.135) (2026-01-31)
 
 
