@@ -1,3 +1,10 @@
+# [2.0.0-alpha.134](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.133...v2.0.0-alpha.134) (2026-01-31)
+
+
+### Bug Fixes
+
+* add min/max measured values to sensor behaviors to prevent Invalid intervalMs error ([#74](https://github.com/RiDDiX/home-assistant-matter-hub/issues/74)) ([6953cd7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/6953cd7f7bdd1c1d5eabd1d072781de9f76a921c))
+
 # [2.0.0-alpha.133](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.132...v2.0.0-alpha.133) (2026-01-31)
 
 
