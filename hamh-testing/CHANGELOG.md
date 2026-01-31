@@ -1,3 +1,10 @@
+# [4.1.0-testing.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.12...v4.1.0-testing.13) (2026-01-31)
+
+
+### Bug Fixes
+
+* clamp brightness to max 254 (Matter.js LevelControl limit) ([71c3e09](https://github.com/RiDDiX/home-assistant-matter-hub/commit/71c3e0946df29e971e859c64b14af45fb714647c))
+
 # [4.1.0-testing.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.11...v4.1.0-testing.12) (2026-01-31)
 
 
