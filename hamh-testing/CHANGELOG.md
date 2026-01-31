@@ -1,3 +1,10 @@
+# [4.0.0-testing.47](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.46...v4.0.0-testing.47) (2026-01-31)
+
+
+### Bug Fixes
+
+* correct inverted cover state-based position fallback ([#72](https://github.com/RiDDiX/home-assistant-matter-hub/issues/72)) ([b4c0120](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b4c01207546749e83f77c4a84dd7a25fd5e79f7a))
+
 # [4.0.0-testing.46](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.45...v4.0.0-testing.46) (2026-01-31)
 
 
