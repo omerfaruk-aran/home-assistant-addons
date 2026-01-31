@@ -1,3 +1,10 @@
+# [4.1.0-testing.14](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.13...v4.1.0-testing.14) (2026-01-31)
+
+
+### Features
+
+* add water_valve and pump to Entity Mapping dropdown ([770dc47](https://github.com/RiDDiX/home-assistant-matter-hub/commit/770dc4748a569fbde6f85d1993f20706ecb96290))
+
 # [4.1.0-testing.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.12...v4.1.0-testing.13) (2026-01-31)
 
 
