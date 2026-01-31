@@ -1,3 +1,10 @@
+# [4.1.0-testing.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.17...v4.1.0-testing.18) (2026-01-31)
+
+
+### Bug Fixes
+
+* add moveToLevel/moveToLevelWithOnOff transitionTime fix to LevelControlBehavior ([22c2193](https://github.com/RiDDiX/home-assistant-matter-hub/commit/22c2193b1113a2233529686d51450a6a0817fcf6))
+
 # [4.1.0-testing.17](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.16...v4.1.0-testing.17) (2026-01-31)
 
 
