@@ -1,3 +1,10 @@
+# [2.0.0-alpha.126](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.125...v2.0.0-alpha.126) (2026-01-31)
+
+
+### Bug Fixes
+
+* improve hvac_mode auto mapping for climate entities ([#71](https://github.com/RiDDiX/home-assistant-matter-hub/issues/71)) ([bfa55e9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/bfa55e9ef70b39f3a530d65629d1de7d97f76d65))
+
 # [2.0.0-alpha.125](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.124...v2.0.0-alpha.125) (2026-01-31)
 
 
