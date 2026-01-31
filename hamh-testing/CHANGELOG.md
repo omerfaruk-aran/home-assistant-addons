@@ -1,3 +1,10 @@
+# [4.0.0-testing.50](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.49...v4.0.0-testing.50) (2026-01-31)
+
+
+### Features
+
+* implement neighbor entity support for DomainEndpoints (Vision 1) ([faae616](https://github.com/RiDDiX/home-assistant-matter-hub/commit/faae61677e2465e99cbfa7a0e710f074f5dcaf70))
+
 # [4.0.0-testing.49](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.48...v4.0.0-testing.49) (2026-01-31)
 
 
