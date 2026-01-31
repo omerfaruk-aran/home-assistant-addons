@@ -1,3 +1,10 @@
+# [4.0.0-testing.45](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.44...v4.0.0-testing.45) (2026-01-31)
+
+
+### Features
+
+* add WaterValveDevice for valve domain and RoomAirConditioner for climate with fan_mode ([f127fde](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f127fdec30a47de9883abbe69c8b77f1b81060e8))
+
 # [4.0.0-testing.44](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.0.0-testing.43...v4.0.0-testing.44) (2026-01-30)
 
 
