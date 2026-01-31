@@ -1,3 +1,10 @@
+# [4.1.0-testing.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.11...v4.1.0-testing.12) (2026-01-31)
+
+
+### Bug Fixes
+
+* correct RVC behavior initialization order for Matter.js validation ([e74c771](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e74c7710e6818660ee2ab3118de627e5037a5a19))
+
 # [4.1.0-testing.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v4.1.0-testing.10...v4.1.0-testing.11) (2026-01-31)
 
 
