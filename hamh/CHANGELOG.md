@@ -1,3 +1,10 @@
+## [1.10.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.9...v1.10.10) (2026-02-02)
+
+
+### Bug Fixes
+
+* revert getSystemMode to v1.10.6 behavior - map Auto to Heat/Cool without AutoMode feature ([dd4fda3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/dd4fda3198c5d573374e66b78cad58e2cd2986aa))
+
 ## [1.10.9](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.8...v1.10.9) (2026-02-02)
 
 
