@@ -1,3 +1,10 @@
+# [2.0.0-alpha.152](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.151...v2.0.0-alpha.152) (2026-02-02)
+
+
+### Bug Fixes
+
+* set default setpoints before super.initialize() to prevent NaN errors ([#82](https://github.com/RiDDiX/home-assistant-matter-hub/issues/82)) ([a86deb5](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a86deb599d14a1564dce30efa17bb38cf2cef7a8))
+
 # [2.0.0-alpha.151](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.150...v2.0.0-alpha.151) (2026-02-02)
 
 
