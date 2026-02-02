@@ -1,3 +1,10 @@
+# [2.0.0-alpha.185](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.184...v2.0.0-alpha.185) (2026-02-02)
+
+
+### Bug Fixes
+
+* **ui:** consolidate Backup & Restore section in Health page ([#91](https://github.com/RiDDiX/home-assistant-matter-hub/issues/91)) ([ac4ddb9](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ac4ddb93004ca86d6b74a83d7236717393dfffc0))
+
 # [2.0.0-alpha.184](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.183...v2.0.0-alpha.184) (2026-02-02)
 
 
