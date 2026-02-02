@@ -1,3 +1,10 @@
+# [2.0.0-alpha.143](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.142...v2.0.0-alpha.143) (2026-02-02)
+
+
+### Features
+
+* add HEPA filter life monitoring for Air Purifiers ([47683f1](https://github.com/RiDDiX/home-assistant-matter-hub/commit/47683f1f0df840bed0c8f03af8b50f15473456ad))
+
 # [2.0.0-alpha.142](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.141...v2.0.0-alpha.142) (2026-02-02)
 
 
