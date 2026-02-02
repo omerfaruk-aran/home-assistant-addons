@@ -1,3 +1,10 @@
+# [2.0.0-alpha.180](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.179...v2.0.0-alpha.180) (2026-02-02)
+
+
+### Bug Fixes
+
+* **vacuum:** re-enable ServiceArea cluster using Matterbridge pattern ([127a580](https://github.com/RiDDiX/home-assistant-matter-hub/commit/127a58060f4ac54b03c946bcc521c8bedbc89113))
+
 # [2.0.0-alpha.179](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.178...v2.0.0-alpha.179) (2026-02-02)
 
 
