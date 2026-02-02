@@ -1,3 +1,10 @@
+# [2.0.0-alpha.148](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.147...v2.0.0-alpha.148) (2026-02-02)
+
+
+### Bug Fixes
+
+* remove AutoMode feature from ClimateDevice to fix Behaviors have errors ([#82](https://github.com/RiDDiX/home-assistant-matter-hub/issues/82)) ([b943898](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b9438984a0cdd95fdd29cea5596508f84f2bb927))
+
 # [2.0.0-alpha.147](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.146...v2.0.0-alpha.147) (2026-02-02)
 
 
