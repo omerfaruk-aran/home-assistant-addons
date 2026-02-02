@@ -1,3 +1,10 @@
+# [2.0.0-alpha.165](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.164...v2.0.0-alpha.165) (2026-02-02)
+
+
+### Bug Fixes
+
+* correct ServiceArea initialize() to call super.initialize() first ([5be3d06](https://github.com/RiDDiX/home-assistant-matter-hub/commit/5be3d06b69e468ffcbd2a0d60292539728cc1e33))
+
 # [2.0.0-alpha.164](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.163...v2.0.0-alpha.164) (2026-02-02)
 
 
