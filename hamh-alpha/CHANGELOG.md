@@ -1,3 +1,10 @@
+# [2.0.0-alpha.169](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.168...v2.0.0-alpha.169) (2026-02-02)
+
+
+### Features
+
+* add includeMode (any/all) for AND/OR filter logic ([#83](https://github.com/RiDDiX/home-assistant-matter-hub/issues/83)) ([16940e7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/16940e767295be4a40779466fc691370dd074314))
+
 # [2.0.0-alpha.168](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.167...v2.0.0-alpha.168) (2026-02-02)
 
 
