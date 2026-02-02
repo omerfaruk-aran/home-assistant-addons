@@ -1,3 +1,10 @@
+# [2.0.0-alpha.177](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.176...v2.0.0-alpha.177) (2026-02-02)
+
+
+### Bug Fixes
+
+* temporarily disable ServiceArea cluster to fix vacuum initialization ([#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)) ([703278d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/703278d6c5c8f349d25b452582d3892014579632))
+
 # [2.0.0-alpha.176](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.175...v2.0.0-alpha.176) (2026-02-02)
 
 
