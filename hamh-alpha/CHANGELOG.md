@@ -1,3 +1,10 @@
+# [2.0.0-alpha.140](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.139...v2.0.0-alpha.140) (2026-02-02)
+
+
+### Bug Fixes
+
+* thermostat auto mode now correctly displays on Matter controllers ([#71](https://github.com/RiDDiX/home-assistant-matter-hub/issues/71)) ([68c7cb1](https://github.com/RiDDiX/home-assistant-matter-hub/commit/68c7cb16ba7c36d734849d24cb3506afb481dc3b))
+
 # [2.0.0-alpha.139](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.138...v2.0.0-alpha.139) (2026-02-02)
 
 
