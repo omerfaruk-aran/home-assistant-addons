@@ -1,3 +1,10 @@
+# [2.0.0-alpha.162](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.161...v2.0.0-alpha.162) (2026-02-02)
+
+
+### Bug Fixes
+
+* use standard thermostat limits to prevent NaN validation errors ([a8d56ac](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a8d56ac1c9c076fd2e3d0476e70d5cb66feb937c))
+
 # [2.0.0-alpha.161](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.160...v2.0.0-alpha.161) (2026-02-02)
 
 
