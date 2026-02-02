@@ -1,3 +1,10 @@
+# [2.0.0-alpha.161](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.160...v2.0.0-alpha.161) (2026-02-02)
+
+
+### Bug Fixes
+
+* pass thermostat attributes in final .set() call to prevent override ([37f4edd](https://github.com/RiDDiX/home-assistant-matter-hub/commit/37f4edd3a8b64b096155ed99ba52d7c6676206b8))
+
 # [2.0.0-alpha.160](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.159...v2.0.0-alpha.160) (2026-02-02)
 
 
