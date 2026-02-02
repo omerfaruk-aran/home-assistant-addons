@@ -1,3 +1,15 @@
+## [1.10.8](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.7...v1.10.8) (2026-02-02)
+
+
+### Bug Fixes
+
+* thermostat auto mode now correctly displays on Matter controllers ([#71](https://github.com/RiDDiX/home-assistant-matter-hub/issues/71)) ([d348265](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d348265202541f3a61f4120af5e2b848d0b92615))
+
+
+### Features
+
+* add EntityIsolationService to isolate problematic entities at runtime ([8d81fd2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8d81fd24d8b014274d8288cbcb5e02e5715fbfaf))
+
 ## [1.10.7](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v1.10.6...v1.10.7) (2026-02-02)
 
 
