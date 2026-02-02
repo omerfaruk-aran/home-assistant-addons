@@ -1,3 +1,10 @@
+# [2.0.0-alpha.163](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.162...v2.0.0-alpha.163) (2026-02-02)
+
+
+### Bug Fixes
+
+* add logging to debug thermostat setpoint initialization ([f4899a7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f4899a758f34c387967a27c467322602d2734ff8))
+
 # [2.0.0-alpha.162](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.161...v2.0.0-alpha.162) (2026-02-02)
 
 
