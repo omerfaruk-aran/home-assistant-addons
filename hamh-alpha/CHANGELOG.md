@@ -1,3 +1,10 @@
+# [2.0.0-alpha.147](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.146...v2.0.0-alpha.147) (2026-02-02)
+
+
+### Bug Fixes
+
+* set RvcRunMode supportedModes before super.initialize() for HomeKit compatibility ([#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)) ([80260af](https://github.com/RiDDiX/home-assistant-matter-hub/commit/80260afc13b21b7bedfc4f6172ccf1a277e261f5))
+
 # [2.0.0-alpha.146](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.145...v2.0.0-alpha.146) (2026-02-02)
 
 
