@@ -1,3 +1,10 @@
+# [2.0.0-alpha.158](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.157...v2.0.0-alpha.158) (2026-02-02)
+
+
+### Bug Fixes
+
+* use static State class for thermostat defaults (Matter.js pattern) ([af0c8c7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/af0c8c707145b8d1c36531fb576dd6bc6e33c65e))
+
 # [2.0.0-alpha.157](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.156...v2.0.0-alpha.157) (2026-02-02)
 
 
