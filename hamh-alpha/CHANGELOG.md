@@ -1,3 +1,10 @@
+# [2.0.0-alpha.173](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.172...v2.0.0-alpha.173) (2026-02-02)
+
+
+### Features
+
+* re-enable ServiceArea cluster for Apple Home room selection ([#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)) ([654c168](https://github.com/RiDDiX/home-assistant-matter-hub/commit/654c168ceb9f250be8b19b8218d321ca40afb020))
+
 # [2.0.0-alpha.172](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.171...v2.0.0-alpha.172) (2026-02-02)
 
 
