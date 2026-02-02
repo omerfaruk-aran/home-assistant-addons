@@ -1,3 +1,10 @@
+# [2.0.0-alpha.160](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.159...v2.0.0-alpha.160) (2026-02-02)
+
+
+### Bug Fixes
+
+* pass thermostat initial state during registration (Matterbridge pattern) ([5af23d8](https://github.com/RiDDiX/home-assistant-matter-hub/commit/5af23d84b1b9f5048fdfea17342d5417b6ef5375))
+
 # [2.0.0-alpha.159](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.158...v2.0.0-alpha.159) (2026-02-02)
 
 
