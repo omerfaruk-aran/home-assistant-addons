@@ -1,3 +1,10 @@
+# [2.0.0-alpha.141](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.140...v2.0.0-alpha.141) (2026-02-02)
+
+
+### Bug Fixes
+
+* binary covers (garage doors) now show Open/Close buttons instead of only percentage slider ([#78](https://github.com/RiDDiX/home-assistant-matter-hub/issues/78)) ([67e3c2a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/67e3c2affbd4ca0fe8d36d1bfc8e6250a90e5499))
+
 # [2.0.0-alpha.140](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.139...v2.0.0-alpha.140) (2026-02-02)
 
 
