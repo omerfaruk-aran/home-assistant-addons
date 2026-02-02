@@ -1,3 +1,11 @@
+# [2.0.0-alpha.187](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.186...v2.0.0-alpha.187) (2026-02-02)
+
+
+### Bug Fixes
+
+* reduce WindowCovering debounce from 500ms to 200ms for quick swipes ([#76](https://github.com/RiDDiX/home-assistant-matter-hub/issues/76)) ([fe2a1ef](https://github.com/RiDDiX/home-assistant-matter-hub/commit/fe2a1ef792bb4e2746d243fb81010f241d86f99c))
+* **speaker:** use 0-254 range for volume - Google Home calculates percentage as currentLevel/254 ([#79](https://github.com/RiDDiX/home-assistant-matter-hub/issues/79)) ([fe31c66](https://github.com/RiDDiX/home-assistant-matter-hub/commit/fe31c6636f7bfec718ef6174f35381774c555cb3))
+
 # [2.0.0-alpha.186](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.185...v2.0.0-alpha.186) (2026-02-02)
 
 
