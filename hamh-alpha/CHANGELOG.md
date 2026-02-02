@@ -1,3 +1,10 @@
+# [2.0.0-alpha.138](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.137...v2.0.0-alpha.138) (2026-02-02)
+
+
+### Bug Fixes
+
+* suppress Invalid intervalMs errors to prevent FATAL crashes ([#74](https://github.com/RiDDiX/home-assistant-matter-hub/issues/74), [#76](https://github.com/RiDDiX/home-assistant-matter-hub/issues/76), [#79](https://github.com/RiDDiX/home-assistant-matter-hub/issues/79), [#80](https://github.com/RiDDiX/home-assistant-matter-hub/issues/80), [#82](https://github.com/RiDDiX/home-assistant-matter-hub/issues/82)) ([e609988](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e6099886a37f2f309173e7958100a8b226f93bd8))
+
 # [2.0.0-alpha.137](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.136...v2.0.0-alpha.137) (2026-01-31)
 
 
