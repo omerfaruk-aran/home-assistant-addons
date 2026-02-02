@@ -1,3 +1,10 @@
+# [2.0.0-alpha.150](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.149...v2.0.0-alpha.150) (2026-02-02)
+
+
+### Bug Fixes
+
+* handle undefined thermostat setpoints to prevent NaN errors ([#82](https://github.com/RiDDiX/home-assistant-matter-hub/issues/82)) ([a2bfbc2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a2bfbc20e03617697c9546e296126f7aadad5a60))
+
 # [2.0.0-alpha.149](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.148...v2.0.0-alpha.149) (2026-02-02)
 
 
