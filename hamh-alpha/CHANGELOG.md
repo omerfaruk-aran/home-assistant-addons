@@ -1,3 +1,10 @@
+# [2.0.0-alpha.149](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.148...v2.0.0-alpha.149) (2026-02-02)
+
+
+### Bug Fixes
+
+* capture action and homeAssistant before setTimeout to fix expired context crash ([#76](https://github.com/RiDDiX/home-assistant-matter-hub/issues/76)) ([0509c7d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0509c7d9a6a097d3215a9314ce1b34a6f23abe15))
+
 # [2.0.0-alpha.148](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.147...v2.0.0-alpha.148) (2026-02-02)
 
 
