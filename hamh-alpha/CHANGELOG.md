@@ -1,3 +1,10 @@
+# [2.0.0-alpha.193](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.192...v2.0.0-alpha.193) (2026-02-03)
+
+
+### Bug Fixes
+
+* **light:** set default ColorControl values before super.initialize() ([#92](https://github.com/RiDDiX/home-assistant-matter-hub/issues/92)) ([fe9966e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/fe9966ee5dbef477536acb6afea1a9124c934f76))
+
 # [2.0.0-alpha.192](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.191...v2.0.0-alpha.192) (2026-02-03)
 
 
