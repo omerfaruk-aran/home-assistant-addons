@@ -1,3 +1,10 @@
+# [2.0.0-alpha.211](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.210...v2.0.0-alpha.211) (2026-02-03)
+
+
+### Bug Fixes
+
+* use ExtendedColorLight for ColorTemperature-only lights to fix initialization errors ([435e798](https://github.com/RiDDiX/home-assistant-matter-hub/commit/435e7989f4921eb48a3e2a1b020d131a0b47e212))
+
 # [2.0.0-alpha.210](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.209...v2.0.0-alpha.210) (2026-02-03)
 
 
