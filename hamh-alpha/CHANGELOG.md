@@ -1,3 +1,10 @@
+# [2.0.0-alpha.200](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.199...v2.0.0-alpha.200) (2026-02-03)
+
+
+### Bug Fixes
+
+* **#49:** use room ID instead of array index for mode values to match ServiceArea ([33a3816](https://github.com/RiDDiX/home-assistant-matter-hub/commit/33a38162dde297f7a96c6ce3c29ed5fbf0b98bd6)), closes [#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)
+
 # [2.0.0-alpha.199](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.198...v2.0.0-alpha.199) (2026-02-03)
 
 
