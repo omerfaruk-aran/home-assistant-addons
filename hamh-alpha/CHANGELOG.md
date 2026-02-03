@@ -1,3 +1,10 @@
+# [2.0.0-alpha.198](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.197...v2.0.0-alpha.198) (2026-02-03)
+
+
+### Bug Fixes
+
+* preserve all fields in backup/export restore (priority, icon, filterLifeEntity, cleaningModeEntity) ([b5976e2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b5976e2340fe6321c7746b5cd39b29e67dce41dc))
+
 # [2.0.0-alpha.197](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.196...v2.0.0-alpha.197) (2026-02-03)
 
 
