@@ -1,3 +1,10 @@
+# [2.0.0-alpha.195](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.194...v2.0.0-alpha.195) (2026-02-03)
+
+
+### Bug Fixes
+
+* **sensors:** add LevelIndication feature and proper min/max values to all concentration sensors ([35d1d6f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/35d1d6f11c4be0b7fff12f46ed8023bfbb04f388))
+
 # [2.0.0-alpha.194](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.193...v2.0.0-alpha.194) (2026-02-03)
 
 
