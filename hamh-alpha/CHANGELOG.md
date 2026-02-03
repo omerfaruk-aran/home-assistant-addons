@@ -1,3 +1,10 @@
+# [2.0.0-alpha.196](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.195...v2.0.0-alpha.196) (2026-02-03)
+
+
+### Bug Fixes
+
+* **#49:** add cleaningModeEntity field to entity mapping UI and API ([eb83809](https://github.com/RiDDiX/home-assistant-matter-hub/commit/eb838093700332641a315392e09c75d228d6dff4)), closes [#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)
+
 # [2.0.0-alpha.195](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.194...v2.0.0-alpha.195) (2026-02-03)
 
 
