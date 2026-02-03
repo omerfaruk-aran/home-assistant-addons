@@ -1,3 +1,10 @@
+# [2.0.0-alpha.192](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.191...v2.0.0-alpha.192) (2026-02-03)
+
+
+### Bug Fixes
+
+* **speaker:** remove currentLevelPercent from state - was confusing Google Home ([#79](https://github.com/RiDDiX/home-assistant-matter-hub/issues/79)) ([2bef68d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/2bef68d2621290c34caa8d32bf03b45fc8e3c2f9))
+
 # [2.0.0-alpha.191](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.190...v2.0.0-alpha.191) (2026-02-03)
 
 
