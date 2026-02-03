@@ -1,3 +1,10 @@
+# [2.0.0-alpha.194](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.193...v2.0.0-alpha.194) (2026-02-03)
+
+
+### Bug Fixes
+
+* add default values before super.initialize() to all behavior servers ([#92](https://github.com/RiDDiX/home-assistant-matter-hub/issues/92)) ([90d5174](https://github.com/RiDDiX/home-assistant-matter-hub/commit/90d5174bfde3d873d4f8be4c6c3ff062978520f0))
+
 # [2.0.0-alpha.193](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.192...v2.0.0-alpha.193) (2026-02-03)
 
 
