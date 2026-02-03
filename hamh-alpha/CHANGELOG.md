@@ -1,3 +1,10 @@
+# [2.0.0-alpha.204](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.203...v2.0.0-alpha.204) (2026-02-03)
+
+
+### Bug Fixes
+
+* add onOff and enhancedColorMode defaults before super.initialize() ([c25cbc6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c25cbc6d19072f8d19e302d751ab5f6656b240d4))
+
 # [2.0.0-alpha.203](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.202...v2.0.0-alpha.203) (2026-02-03)
 
 
