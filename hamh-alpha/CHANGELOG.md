@@ -1,3 +1,10 @@
+# [2.0.0-alpha.197](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.196...v2.0.0-alpha.197) (2026-02-03)
+
+
+### Bug Fixes
+
+* **#76:** two-phase debounce for WindowCovering quick swipe handling ([0896af3](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0896af363575307ff8658656e756efcd9f66eac9)), closes [#76](https://github.com/RiDDiX/home-assistant-matter-hub/issues/76)
+
 # [2.0.0-alpha.196](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.195...v2.0.0-alpha.196) (2026-02-03)
 
 
