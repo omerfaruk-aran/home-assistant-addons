@@ -1,3 +1,15 @@
+# [2.0.0-alpha.191](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.190...v2.0.0-alpha.191) (2026-02-03)
+
+
+### Bug Fixes
+
+* **vacuum:** delay room cleaning until RvcRunMode start ([#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)) ([d58863a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d58863a7ec082be1cc25deeb6395284fa1ae92f1))
+
+
+### Features
+
+* **vacuum:** add configurable cleaningModeEntity for Dreame vacuums ([#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)) ([9165031](https://github.com/RiDDiX/home-assistant-matter-hub/commit/9165031864885802103a3ed9a7186eb19201ec11))
+
 # [2.0.0-alpha.190](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.189...v2.0.0-alpha.190) (2026-02-03)
 
 
