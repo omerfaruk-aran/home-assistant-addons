@@ -12,8 +12,8 @@ This repository provides the following addons for Home-Assistant:
 
 | Addon | Description | Stability |
 |-------|-------------|-----------|
-| **Home-Assistant-Matter-Hub** | Stable release (v1.10.11) | ✅ Production |
-| **Home-Assistant-Matter-Hub (Alpha)** | Pre-release with new features (v2.0.1-alpha) | ⚠️ Testing only |
+| **Home-Assistant-Matter-Hub** | Stable release (v2.0.x) | ✅ Production |
+| **Home-Assistant-Matter-Hub (Alpha)** | Pre-release with new features (v2.0.x-alpha) | ⚠️ Testing only |
 | **Home-Assistant-Matter-Hub (Testing)** | Experimental features (v4.1.0-testing) | 🔴 **Highly Experimental** |
 
 > [!CAUTION]
