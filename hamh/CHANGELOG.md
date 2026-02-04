@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.5...v2.0.6) (2026-02-04)
+
+
+### Features
+
+* add Server Mode option to Bridge Wizard for Robot Vacuums ([5ba7dc8](https://github.com/RiDDiX/home-assistant-matter-hub/commit/5ba7dc8ef3fc0cd19481b148c097654a81d54105))
+
 ## [2.0.5](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.4...v2.0.5) (2026-02-04)
 
 
