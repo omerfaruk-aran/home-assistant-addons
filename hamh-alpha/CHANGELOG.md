@@ -1,3 +1,10 @@
+# [2.0.0-alpha.218](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.217...v2.0.0-alpha.218) (2026-02-04)
+
+
+### Bug Fixes
+
+* set ColorTemperature boundaries before values to prevent validation errors ([c2b8871](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c2b887166149bc545ed472fe094171b52828164c))
+
 # [2.0.0-alpha.217](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.216...v2.0.0-alpha.217) (2026-02-04)
 
 
