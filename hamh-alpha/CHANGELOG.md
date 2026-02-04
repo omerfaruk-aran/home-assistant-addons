@@ -1,3 +1,10 @@
+# [2.0.0-alpha.215](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.214...v2.0.0-alpha.215) (2026-02-04)
+
+
+### Bug Fixes
+
+* align ColorControl and PM25 sensors with matterbridge implementation ([e3185a6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e3185a6db09acc97190a05c0d54166ed627fdef4))
+
 # [2.0.0-alpha.214](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.213...v2.0.0-alpha.214) (2026-02-04)
 
 
