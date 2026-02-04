@@ -1,3 +1,10 @@
+## [2.0.1-alpha.3](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.1-alpha.2...v2.0.1-alpha.3) (2026-02-04)
+
+
+### Features
+
+* add PowerSource cluster to Lock and Cover devices with battery ([20dc78e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/20dc78ed5d8d071eddbabf663e6d14709b4a3a9a))
+
 ## [2.0.1-alpha.2](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.1-alpha.1...v2.0.1-alpha.2) (2026-02-04)
 
 
