@@ -1,3 +1,10 @@
+# [2.0.0-alpha.214](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.213...v2.0.0-alpha.214) (2026-02-04)
+
+
+### Bug Fixes
+
+* prevent null/undefined from overwriting defaults in update() methods ([d9dba0b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d9dba0bcde8996245a8ec5b8db103caee6aa07bc))
+
 # [2.0.0-alpha.213](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.0-alpha.212...v2.0.0-alpha.213) (2026-02-04)
 
 
