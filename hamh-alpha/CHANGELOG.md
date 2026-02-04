@@ -1,9 +1,9 @@
 ## [2.0.5-alpha.1](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.4...v2.0.5-alpha.1) (2026-02-04)
 
 
-### Bug Fixes
+### Features
 
-* **#49:** add wet_mop alias for Dreame mopping mode ([18f9702](https://github.com/RiDDiX/home-assistant-matter-hub/commit/18f97028c5c306c1772018cc14925b06e9ba9ccd)), closes [#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)
+* **#49:** improve Dreame vacuum cleaning mode aliases ([cb285ea](https://github.com/RiDDiX/home-assistant-matter-hub/commit/cb285ea2c16340a7882b61cfc37beed11e25f252)), closes [#49](https://github.com/RiDDiX/home-assistant-matter-hub/issues/49)
 
 ## [2.0.4](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.3...v2.0.4) (2026-02-04)
 
