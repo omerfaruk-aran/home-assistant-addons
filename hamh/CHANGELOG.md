@@ -1,3 +1,11 @@
+## [2.0.8](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.7...v2.0.8) (2026-02-06)
+
+
+### Bug Fixes
+
+* **#95:** add required defaults for lock PinCredential feature ([8c175a2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8c175a218610637e0873676016da099171b3e919)), closes [#95](https://github.com/RiDDiX/home-assistant-matter-hub/issues/95)
+* **#95:** add required PinCredential defaults before initialize to prevent Behaviors have errors ([8fd1688](https://github.com/RiDDiX/home-assistant-matter-hub/commit/8fd1688d879c920c636b5c8692850226d7ed4fb8)), closes [#95](https://github.com/RiDDiX/home-assistant-matter-hub/issues/95)
+
 ## [2.0.7](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.6...v2.0.7) (2026-02-05)
 
 
