@@ -1,3 +1,12 @@
+## [2.0.11](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.10...v2.0.11) (2026-02-07)
+
+
+### Bug Fixes
+
+* **#71:** cooling setpoint now updates temperature in auto mode for single-temp thermostats ([786c233](https://github.com/RiDDiX/home-assistant-matter-hub/commit/786c23312fcfcba21fe91b4e512c49c1b55b387d)), closes [#71](https://github.com/RiDDiX/home-assistant-matter-hub/issues/71)
+* **#78:** translate position commands to open/close for binary covers ([7021b2d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/7021b2d0272d4ca790f4ea4d94c049a5e7edaa2e))
+* **#92:** clamp colorTemperatureMireds to device range before updating boundaries ([e866f0d](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e866f0da80d8160be4f31b4b55d3a2b8b71a3834)), closes [#92](https://github.com/RiDDiX/home-assistant-matter-hub/issues/92) [#92](https://github.com/RiDDiX/home-assistant-matter-hub/issues/92)
+
 ## [2.0.10](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.9...v2.0.10) (2026-02-07)
 
 
