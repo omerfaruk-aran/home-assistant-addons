@@ -1,3 +1,10 @@
+## [2.0.13](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.12...v2.0.13) (2026-02-07)
+
+
+### Bug Fixes
+
+* **sensors:** correct CO2 thresholds and add ExtremelyPoor for CO2/PM10 ([35b41ea](https://github.com/RiDDiX/home-assistant-matter-hub/commit/35b41eaac4cddf47de050e04ae9cada59b0438a1))
+
 ## [2.0.12](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.11...v2.0.12) (2026-02-07)
 
 
