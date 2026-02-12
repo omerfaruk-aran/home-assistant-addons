@@ -1,3 +1,10 @@
+## [2.0.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.17...v2.0.18) (2026-02-12)
+
+
+### Bug Fixes
+
+* resolve version 0.0.0-dev shown in UI for manual and workflow_dispatch builds ([63fa12f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/63fa12f544a878737571fb60941ab31e0d4f4eb1))
+
 ## [2.0.17](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.16...v2.0.17) (2026-02-12)
 
 
