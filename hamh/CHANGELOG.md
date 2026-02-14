@@ -1,3 +1,31 @@
+## [2.0.19](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.18...v2.0.19) (2026-02-14)
+
+
+### Bug Fixes
+
+* **#112:** add auto-battery-mapping and batteryEntity support to server mode vacuum ([a80c5b7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/a80c5b79559ad761b47e48983ab04241175e9314)), closes [#112](https://github.com/RiDDiX/home-assistant-matter-hub/issues/112)
+* **#164:** split label filter into EntityLabel and DeviceLabel types ([4a9f4fc](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4a9f4fc742d38cc55873fe74fd5bfef00743e877)), closes [#164](https://github.com/RiDDiX/home-assistant-matter-hub/issues/164) [#164](https://github.com/RiDDiX/home-assistant-matter-hub/issues/164)
+* broadcast bridge 'starting' status via WebSocket for all bridges ([#160](https://github.com/RiDDiX/home-assistant-matter-hub/issues/160)) ([cd6f594](https://github.com/RiDDiX/home-assistant-matter-hub/commit/cd6f594f4526ab53e2e8ec71597a4282cd6b9cd7))
+* broadcast bridge status changes via WebSocket during startup ([#160](https://github.com/RiDDiX/home-assistant-matter-hub/issues/160)) ([064de02](https://github.com/RiDDiX/home-assistant-matter-hub/commit/064de02447e763e4728f653562afd152ed717f9c))
+* detect orphaned bridge state and clear resumption records for controller reconnection ([f7cda0f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f7cda0fec2320b4f32b448ea3f0271889f68434f)), closes [#105](https://github.com/RiDDiX/home-assistant-matter-hub/issues/105)
+* pass entityState to filter-preview for device_class support and update label docs with display name resolution ([88aea83](https://github.com/RiDDiX/home-assistant-matter-hub/commit/88aea83cb1c3571520b23d2c05c5048744d29ccf))
+* prevent vacuum.send_command crash for Ecovacs/Deebot vacuums ([#165](https://github.com/RiDDiX/home-assistant-matter-hub/issues/165)) ([47adc83](https://github.com/RiDDiX/home-assistant-matter-hub/commit/47adc83d8e233f113561c8cb849cd229663c1cb0))
+* reduce MRP traffic and improve session recovery for Alexa ([#105](https://github.com/RiDDiX/home-assistant-matter-hub/issues/105)) ([76aa5f6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/76aa5f6083837183aed76e58b98b59aa7baae1d3))
+* resolve version 0.0.0-dev shown in UI for manual and workflow_dispatch builds ([32e8f65](https://github.com/RiDDiX/home-assistant-matter-hub/commit/32e8f65b07ad5156ef73750e277704d19904cbd1))
+
+
+### Features
+
+* add device_class filter type for entity filtering by HA device class attribute ([395410f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/395410f00496c7a36ad99d9441d4e1cad249c8b6))
+* add diagnostics dashboard with entity health indicators, battery levels, and auto-mapping info ([11fbaa2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/11fbaa2a35bbb9dee48632159b67e6c11a536fcd))
+* add edit/add filters button to bridge details FiltersCard ([4de35e2](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4de35e2f0a66897b3e9a5fe8e74ce3889672f384))
+* add ElectricalPowerMeasurement and ElectricalEnergyMeasurement clusters for switch/plug entities with auto-mapping ([3e92cb6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3e92cb6292f1ca436abedb076f63543e10979742))
+* add energy measurement clusters to light devices with auto-mapping support ([cc42d56](https://github.com/RiDDiX/home-assistant-matter-hub/commit/cc42d5610e93ba27023af6685f83207476b06bb0))
+* add event domain support with GenericSwitch device for HA event.* entities (doorbells, buttons) ([4c48365](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4c4836572f7fd8606268bc8a9166217620132855))
+* add power/energy entity fields to EntityMappingDialog for manual configuration ([c218f77](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c218f771f98d00d2c4cd86e049cd4d2c7efdf579))
+* expand Filter Reference page with all filter types ([7ec818b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/7ec818b791d8cb0707873ffdbaf96f0bfae75da4))
+* resolve label display names to slugs in filter matching ([0656494](https://github.com/RiDDiX/home-assistant-matter-hub/commit/06564944a7783b888a2cbf5f4d7f0a48420abe5e))
+
 ## [2.0.18](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.17...v2.0.18) (2026-02-12)
 
 
