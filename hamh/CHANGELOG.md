@@ -1,3 +1,10 @@
+## [2.0.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.21...v2.0.22) (2026-02-18)
+
+
+### Bug Fixes
+
+* **#176:** restore auto-resume heating/cooling when setpoint written while off ([754f102](https://github.com/RiDDiX/home-assistant-matter-hub/commit/754f102e08c52a27757051bad868aa1876c17411)), closes [#176](https://github.com/RiDDiX/home-assistant-matter-hub/issues/176)
+
 ## [2.0.21](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.20...v2.0.21) (2026-02-18)
 
 
