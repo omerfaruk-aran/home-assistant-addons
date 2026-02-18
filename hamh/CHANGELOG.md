@@ -1,3 +1,12 @@
+## [2.0.21](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.20...v2.0.21) (2026-02-18)
+
+
+### Bug Fixes
+
+* **#176:** auto-resume heating/cooling when setpoint is written while device is off ([c3a661b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c3a661ba8f96cf622916dbfd451c7a80d4a0af7f)), closes [#176](https://github.com/RiDDiX/home-assistant-matter-hub/issues/176)
+* **#178:** correct vendor ID mappings in Network Map and Health Dashboard ([b477148](https://github.com/RiDDiX/home-assistant-matter-hub/commit/b4771481917649c26a8f2bd2ea72c18f49d9a217)), closes [#178](https://github.com/RiDDiX/home-assistant-matter-hub/issues/178)
+* revert thermostat auto-resume logic ([#176](https://github.com/RiDDiX/home-assistant-matter-hub/issues/176)) - caused mode cycling ([cf580c1](https://github.com/RiDDiX/home-assistant-matter-hub/commit/cf580c1b691ec16c1ad633126634fba85ced6f86))
+
 ## [2.0.20](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.19...v2.0.20) (2026-02-18)
 
 
