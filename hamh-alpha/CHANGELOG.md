@@ -1,8 +1,8 @@
-# v2.1.0-alpha.260
+# v2.1.0-alpha.261
 
 ## Changes
 
-- fix(thermostat): remove broken proxy code causing initialization errors (2ce4f78)
+- fix(logging): reduce bridge-registry battery warning spam (6dec983)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
