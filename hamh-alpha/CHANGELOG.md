@@ -1,8 +1,8 @@
-# v2.1.0-alpha.271
+# v2.1.0-alpha.272
 
 ## Changes
 
-- fix: change minMeasuredValue from 0 to 1 in electrical measurement clusters (3bb26fb)
+- fix: additional minMeasuredValue fixes for humidity and flow measurement clusters (8f501d8)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
