@@ -1,3 +1,10 @@
+## [2.0.23](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.22...v2.0.23) (2026-02-19)
+
+
+### Bug Fixes
+
+* **oom:** delete endpoints in dispose() to prevent memory leak ([#180](https://github.com/RiDDiX/home-assistant-matter-hub/issues/180)) ([e75902b](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e75902bec9a8a64b3e435574697af86d1a124a15))
+
 ## [2.0.22](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.21...v2.0.22) (2026-02-18)
 
 
