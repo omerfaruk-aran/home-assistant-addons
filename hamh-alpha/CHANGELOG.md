@@ -1,9 +1,8 @@
-# v2.1.0-alpha.270
+# v2.1.0-alpha.271
 
 ## Changes
 
-- chore: update ajv to 8.18.0 (a7ffbeb)
-- chore: update all outdated packages (451c49c)
+- fix: change minMeasuredValue from 0 to 1 in electrical measurement clusters (3bb26fb)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
