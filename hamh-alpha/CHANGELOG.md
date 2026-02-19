@@ -1,8 +1,8 @@
-# v2.1.0-alpha.275
+# v2.1.0-alpha.276
 
 ## Changes
 
-- fix: set humidity minMeasuredValue to 0 (uint16 cannot be negative) (4fbc9d8)
+- fix: revert flow minMeasuredValue to 0 (0 is a valid uint16 value, not null) (debf759)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
