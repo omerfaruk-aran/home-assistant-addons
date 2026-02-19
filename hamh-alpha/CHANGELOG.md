@@ -1,8 +1,8 @@
-# v2.1.0-alpha.265
+# v2.1.0-alpha.266
 
 ## Changes
 
-- style: make Live Diagnostics bridge cards self-adjusting and uniformly sized (1f062ea)
+- docs: update README and Alpha Features guide with latest changes (65c302d)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
