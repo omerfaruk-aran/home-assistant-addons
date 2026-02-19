@@ -1,8 +1,8 @@
-# v2.1.0-alpha.259
+# v2.1.0-alpha.260
 
 ## Changes
 
-- fix(thermostat): use Proxy instead of property override for setpoint interception (aa753f9)
+- fix(thermostat): remove broken proxy code causing initialization errors (2ce4f78)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
