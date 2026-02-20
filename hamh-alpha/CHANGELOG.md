@@ -1,8 +1,8 @@
-# v2.1.0-alpha.276
+# v2.1.0-alpha.277
 
 ## Changes
 
-- fix: revert flow minMeasuredValue to 0 (0 is a valid uint16 value, not null) (debf759)
+- fix: always include RvcCleanMode on vacuum endpoints (#183) (7510001)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
