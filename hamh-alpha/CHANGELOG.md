@@ -1,8 +1,8 @@
-# v2.1.0-alpha.289
+# v2.1.0-alpha.290
 
 ## Changes
 
-- fix: responsive mobile layout for dashboard stat cards (157d9c4)
+- feat: show fabric icons with vendor names in bridge details and health dashboard (3205bd1)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
