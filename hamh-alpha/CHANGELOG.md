@@ -1,8 +1,8 @@
-# v2.1.0-alpha.291
+# v2.1.0-alpha.292
 
 ## Changes
 
-- fix: update label filter descriptions and value hint in bridge config schema (53c2c31)
+- feat: dynamic vacuum fan speed modes + vacuumOnOff feature flag (6cfff16)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
