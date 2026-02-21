@@ -1,8 +1,8 @@
-# v2.1.0-alpha.312
+# v2.1.0-alpha.313
 
 ## Changes
 
-- fix(#176): preserve setpoint nudge while device is Off (d95b37c)
+- fix(#105): add non-destructive session lifecycle logging for diagnostic visibility (3044f89)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
