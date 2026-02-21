@@ -1,9 +1,8 @@
-# v2.1.0-alpha.320
+# v2.1.0-alpha.321
 
 ## Changes
 
-- docs: document webhook event bridge (hamh_action) (fa9d32f)
-- feat: webhook event bridge  fire hamh_action HA events for controller commands (08ebcb2)
+- fix: prevent frontend crash when serializing disposed Matter.js containers (#193) (5ce8c7d)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
