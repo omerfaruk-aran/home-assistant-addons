@@ -1,8 +1,8 @@
-# v2.1.0-alpha.308
+# v2.1.0-alpha.309
 
 ## Changes
 
-- fix(#110): add diagnostic logging for vacuum clean mode changes (d4990b7)
+- fix: reduce WindowCoveringServer log noise by moving position updates to DEBUG (8b0381b)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
