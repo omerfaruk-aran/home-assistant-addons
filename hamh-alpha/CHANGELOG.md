@@ -1,9 +1,8 @@
-# v2.1.0-alpha.325
+# v2.1.0-alpha.326
 
 ## Changes
 
-- feat: update matter.js packages from 0.16.8 to 0.16.10 (675713f)
-- fix(#199): use directional commands for cover open/close instead of position path (176d840)
+- fix(#198): dispatch all button presses for multi-room ServiceArea selection (91a8c44)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
