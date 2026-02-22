@@ -1,8 +1,9 @@
-# v2.1.0-alpha.324
+# v2.1.0-alpha.325
 
 ## Changes
 
-- fix(#110): use target entity for action debounce key (4ca1590)
+- feat: update matter.js packages from 0.16.8 to 0.16.10 (675713f)
+- fix(#199): use directional commands for cover open/close instead of position path (176d840)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
