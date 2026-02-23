@@ -1,8 +1,8 @@
-# v2.1.0-alpha.346
+# v2.1.0-alpha.347
 
 ## Changes
 
-- fix(#202): entity filter change on server-mode bridge now updates the endpoint (cd24810)
+- fix(#189): fallback 'Vacuum Then Mop' to 'Vacuum & Mop' when entity lacks dedicated option (fbf9d95)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
