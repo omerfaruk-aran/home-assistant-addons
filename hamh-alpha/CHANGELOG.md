@@ -1,8 +1,8 @@
-# v2.1.0-alpha.342
+# v2.1.0-alpha.343
 
 ## Changes
 
-- fix: use 1-based mode IDs for RVC clusters and restore PowerSource (#183) (6a452a9)
+- fix(#202): allow editing entity filter for server mode templates in wizard (fcb3909)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
