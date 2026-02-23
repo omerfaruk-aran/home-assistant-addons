@@ -1,8 +1,8 @@
-# v2.1.0-alpha.345
+# v2.1.0-alpha.346
 
 ## Changes
 
-- fix: restore PowerSource device type on vacuum endpoint to match Matterbridge (#183) (1789c73)
+- fix(#202): entity filter change on server-mode bridge now updates the endpoint (cd24810)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
