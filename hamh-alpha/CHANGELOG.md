@@ -1,8 +1,8 @@
-# v2.1.0-alpha.359
+# v2.1.0-alpha.360
 
 ## Changes
 
-- fix: align minSetpointDeadBand guard with autoMode condition  regression from 0147e2a (d973e7d6)
+- fix(#205): sort room modes alphabetically to match Apple Home display order (1415feb7)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
