@@ -1,8 +1,8 @@
-# v2.1.0-alpha.369
+# v2.1.0-alpha.370
 
 ## Changes
 
-- fix(#183): skip ServiceArea cluster when no rooms are configured (0e37ff27)
+- fix(#183): remove PowerSource from server-mode vacuum endpoint (b49cc4ea)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
