@@ -1,8 +1,8 @@
-# v2.1.0-alpha.349
+# v2.1.0-alpha.350
 
 ## Changes
 
-- fix(#183): include OnOff cluster by default for server-mode vacuums (Alexa requires PowerController) (442c2be)
+- feat(#205): native Valetudo support  auto-detect select entities, map segments, segment_cleanup (b56bdab)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
