@@ -1,8 +1,8 @@
-# v2.1.0-alpha.367
+# v2.1.0-alpha.368
 
 ## Changes
 
-- fix: set correct repository casing (RiDDiX) in npm repack for provenance (05f4ba44)
+- feat(#177): add custom service areas for generic zone-based robots (ec0ddf2b)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
