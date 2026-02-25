@@ -1,8 +1,8 @@
-# v2.1.0-alpha.301
+# v2.1.0-alpha.382
 
 ## Changes
 
-- fix(#176): deferred setpoint nudge for reliable auto-resume (5ab4fe6)
+- feat: compact collapsible include/exclude editor with search (d7e3eec4)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
