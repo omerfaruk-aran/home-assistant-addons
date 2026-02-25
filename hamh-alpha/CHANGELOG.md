@@ -1,8 +1,8 @@
-# v2.1.0-alpha.379
+# v2.1.0-alpha.380
 
 ## Changes
 
-- fix(#206): fallback to hardcoded cleaning modes when entity options unavailable (8f5c4676)
+- feat: improve vendor identification and consolidate vendor name lookups (e388bec5)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
