@@ -1,8 +1,8 @@
-# v2.1.0-alpha.382
+# v2.1.0-alpha.383
 
 ## Changes
 
-- feat: compact collapsible include/exclude editor with search (d7e3eec4)
+- fix(#185,#183): revert RVC mode IDs to 0-based to restore Alexa compatibility (05d8ad7f)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
